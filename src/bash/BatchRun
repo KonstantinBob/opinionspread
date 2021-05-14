@@ -1,0 +1,70 @@
+#!/usr/bin/env bash 
+
+usage="BatchSkript executableName outputFilename flagMake flagRun\n 	make flags: -s speed -d debug \n 	run flags:  -o output -h nohup"
+
+#check arguments
+if [ "$#" -ne 5 ];
+then
+	echo -e $usage
+	exit 1;
+fi
+
+#save arguments
+exeName=$1
+logName=$2
+makeFlag=$3
+runFlag=$4		
+netType=$5
+#target directory for data
+target=$(pwd)
+
+# make shure that you are in the right directory
+cd ~/Thesis/Code
+
+# make the executable
+if [ $makeFlag == "-s" ];
+then
+	make -B speed;
+elif [ $makeFlag == "-d" ];
+then
+	make debug;
+else
+	echo "Unknown argument" $3
+	exit 1;
+fi	
+
+if [ $? -eq 0 ];
+then
+# clear make output
+clear
+
+# move it to data directory
+mv Echse $target/$exeName
+
+# change directory to there
+cd $target
+
+
+	for q in 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.85 0.86 0.87 0.88 0.89 0.9 0.91 0.92 0.93 0.94 0.95 0.96 0.97 0.975 0.98 0.985 0.99 1.0 
+		do
+			for p in 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.85 0.9 0.92 0.95 0.98 0.99
+			do						
+						
+				# run production
+				if [ $runFlag == "-o" ];
+				then
+					./$exeName  $p $q;
+				elif [ $runFlag == "-h" ];
+				then
+					stdbuf -oL nohup ./$exeName $p $q 100 ${netType} </dev/null >${logName}_${p}_${q}_.log 2>&1 &														
+				else
+					echo -e $usage
+					exit 1;
+				fi
+					
+			
+			
+		done
+	done
+fi		
+

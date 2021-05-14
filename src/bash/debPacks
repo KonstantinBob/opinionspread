@@ -1,0 +1,3004 @@
+texlive-luatex - TeX Live: LuaTeX packages
+texlive-latex-extra - TeX Live: LaTeX additional packages
+texlive-lang-greek - TeX Live: Greek
+ahcpd - Ad-Hoc Configuration Protocol
+babeld - loop-free distance-vector routing protocol
+python-babelfish - library to work with countries and languages (Python 2)
+python3-babelfish - library to work with countries and languages (Python 3)
+babeltrace - Trace conversion program
+libbabeltrace-ctf-dev - Common Trace Format (CTF) development files
+libbabeltrace-ctf1 - Common Trace Format (CTF) library
+libbabeltrace-dev - Babeltrace development files
+libbabeltrace1 - Babeltrace conversion libraries
+python3-babeltrace - Babeltrace Python 3 bindings
+ch5m3d - create and visualize 3-dimensional drawings of simple molecules
+python-chemfp - cheminformatics fingerprints file formats and tools
+python-cinfony - Python abstraction layer to cheminformatics toolkits
+cl-babel - A charset encoding/decoding library, not unlike GNU libiconv
+cl-trivial-utf-8 - small Common Lisp library for doing UTF-8-based in- and output
+python-flask-babel - internationalization and localization support for Flask (Python 2)
+python-flask-babel-doc - internationalization and localization support for Flask (documentation)
+python3-flask-babel - internationalization and localization support for Flask (Python 3)
+fonts-babelstone-han - BabelStone Fonts for Han
+fonts-babelstone-modern - BabelStone latin modern font
+fonts-linex - Fonts suitable for education and institutional use
+garmin-forerunner-tools - retrieve data from Garmin Forerunner/Edge GPS devices
+gdis - molecular and crystal model viewer
+gmtkbabel - graphical interface for mtkbabel
+gpsbabel - GPS file conversion plus transfer to/from GPS units
+gpsbabel-doc - GPS file conversion plus transfer to/from GPS units
+gpsbabel-gui - GPS file conversion plus transfer to/from GPS units - GUI
+konq-plugins - plugins for Konqueror, the KDE file/web/document browser
+lokalize - computer-aided translation system
+mtkbabel - Tool for managing i-Blue 747 and compatible GPS data loggers
+python-nibabel - Python bindings to various neuroimaging data formats
+python-nibabel-doc - documentation for NiBabel
+python3-nibabel - Python3 bindings to various neuroimaging data formats
+node-babel-runtime - babel selfContained runtime
+libchemistry-openbabel-perl - Chemical toolbox library (perl bindings)
+libopenbabel-dev - Chemical toolbox library (development files)
+libopenbabel-doc - Chemical toolbox library (documentation)
+libopenbabel4v5 - Chemical toolbox library
+openbabel - Chemical toolbox utilities (cli)
+openbabel-dbg - Chemical toolbox library (debugging symbols)
+openbabel-gui - Chemical toolbox utilities (graphical user interface)
+python-openbabel - Chemical toolbox library (python bindings)
+probabel - Toolset for Genome-Wide Association Analysis
+probabel-examples - Example files for ProbABEL
+python-babel - tools for internationalizing Python applications - Python 2.x
+python-babel-doc - tools for internationalizing Python applications - documentation
+python-babel-localedata - tools for internationalizing Python applications - locale data files
+python3-babel - tools for internationalizing Python applications - Python 3.x
+python-django-babel - Utilities for using Babel in Django - Python 2.7
+python-django-babel-doc - Utilities for using Babel in Django - doc
+python3-django-babel - Utilities for using Babel in Django - Python 3.x
+python-translationstring - Utility library for i18n relied on by various Repoze packages - Python 3.x
+python3-translationstring - Utility library for i18n relied on by various Repoze packages - Python 2.x
+ruby-babel-source - Babel JS source
+ruby-babel-transpiler - Ruby Babel JS Compiler
+ruby-sprockets-es6 - Sprockets ES6 transformer
+swath - Thai word segmentation program
+texlive-latex-base - TeX Live: LaTeX fundamental packages
+texlive-latex-recommended - TeX Live: LaTeX recommended packages
+texlive-lang-arabic - TeX Live: Arabic
+texlive-lang-cyrillic - TeX Live: Cyrillic
+texlive-lang-czechslovak - TeX Live: Czech/Slovak
+texlive-lang-european - TeX Live: Other European languages
+texlive-lang-french - TeX Live: French
+texlive-lang-german - TeX Live: German
+texlive-lang-greek - TeX Live: Greek
+texlive-lang-italian - TeX Live: Italian
+texlive-lang-japanese - TeX Live: Japanese
+texlive-lang-other - TeX Live: Other languages
+texlive-lang-polish - TeX Live: Polish
+texlive-lang-portuguese - TeX Live: Portuguese
+texlive-lang-spanish - TeX Live: Spanish
+v-sim-plugins - Plugins for V_Sim (a 3D visualization package)
+viewmol - graphical front end for computational chemistry programs
+xdrawchem - Chemical structures and reactions editor
+r-cran-zelig - GNU R package providing a unified front-end for estimating statistical models
+ztex-bmp - universal macro processor
+mgltools-pybabel - molecular structure file access and interpretation
+rubber - automated system for building LaTeX documents
+texlive-latex-extra - TeX Live: LaTeX additional packages
+texlive-pstricks - TeX Live: PSTricks
+cthumb - Program to generate themable Web picture albums
+digikam - digital photo management application for KDE
+fim - scriptable frame buffer, X.org and ascii art image viewer
+freetable - Facilitates production of HTML tables
+fswebcam - Tiny and flexible webcam program
+gcap - YouTube closed caption retriever
+imageindex - generate static HTML galleries from images
+libjs-jquery-galleriffic - jQuery Galleriffic plugin
+llgal - Command-line online gallery generator
+python-sphinxcontrib.plantuml - PlantUML extension for Sphinx - Python 2.x
+python3-sphinxcontrib.plantuml - PlantUML extension for Sphinx - Python 3.x
+texlive-latex-recommended - TeX Live: LaTeX recommended packages
+texlive-pictures - TeX Live: Graphics, pictures, diagrams
+texlive-latex-extra - TeX Live: LaTeX additional packages
+libzvbi-common - Vertical Blanking Interval decoder (VBI) - common files
+libzvbi-dev - Vertical Blanking Interval decoder (VBI) - development files
+libzvbi-doc - Vertical Blanking Interval decoder (VBI) - documentation files
+libzvbi0 - Vertical Blanking Interval decoder (VBI) - runtime files
+zvbi - Vertical Blanking Interval (VBI) utilities
+abinit - package for electronic structure calculations
+abinit-data - package for electronic structure calculations (Data files)
+abinit-doc - package for electronic structure calculations (Documentation)
+aces3 - Advanced Concepts in Electronic Structure III
+libagg-dev - AntiGrain Geometry graphical toolkit (development files)
+avogadro - Molecular Graphics and Modelling System
+blt - graphics extension library for Tcl/Tk - run-time
+blt-demo - graphics extension library for Tcl/Tk - demos and examples
+blt-dev - graphics extension library for Tcl/Tk - development files
+tk8.6-blt2.5 - graphics extension library for Tcl/Tk - library
+libgimpactutils2.83.7 - professional 3D Game Multiphysics Library -- GIMPACT
+camitk-imp - workbench application for the CamiTK library
+carmetal - dynamic geometry software with highly ergonomic UI
+libcgal-demo - C++ library for computational geometry (demos)
+libcgal-dev - C++ library for computational geometry (development files)
+libcgal-ipelets - C++ library for computational geometry (ipelets)
+libcgal-qt5-12 - C++ library for computational geometry (support for Qt5)
+libcgal-qt5-dev - C++ library for computational geometry (development files, support for Qt5)
+libcgal12 - C++ library for computational geometry
+ch5m3d - create and visualize 3-dimensional drawings of simple molecules
+clhep-doc - Documentation of CLHEP
+libclhep-dev - CLHEP: A Class Library for High Energy Physics - development
+libclhep2.1v5 - CLHEP: A Class Library for High Energy Physics
+libcoin80-runtime - high-level 3D graphics kit - external data files
+cp2k - Ab Initio Molecular Dynamics
+education-mathematics - Debian Edu mathematical applications
+science-config - Debian Science Project config package
+science-geometry - Debian Science geometry packages
+python-djangorestframework-gis - Geographic add-ons for Django REST Framework
+python3-djangorestframework-gis - Geographic add-ons for Django REST Framework (Python3 version)
+drawxtl - crystal structure viewer
+drgeo-doc - Dr. Geo online user manual
+libdune-geometry-dbg - toolbox for solving PDEs -- geometry classes (debug symbols)
+libdune-geometry-dev - toolbox for solving PDEs -- geometry classes (development files)
+libdune-geometry-doc - toolbox for solving PDEs -- geometry classes (documentation)
+ettercap-common - Multipurpose sniffer/interceptor/logger for switched LAN
+ettercap-graphical - Ettercap GUI-enabled executable
+ettercap-text-only - Ettercap console-mode executable
+eukleides - Euclidean geometry drawing language
+fdutils - Linux floppy utilities
+freefem3d - Language and solver for partial differential equations in 3D
+gausssum - parse and display Gaussian, GAMESS, and etc's output
+gdis - molecular and crystal model viewer
+geogebra - Dynamic mathematics software for education
+geogebra-gnome - GNOME integration layer for GeoGebra
+geogebra-kde - KDE integration layer for GeoGebra
+geomview - interactive geometry viewing program
+libgeomview-1.9.5 - geomview library runtime
+libgeomview-dev - geomview library development package
+libgeos++-dev - Geometry engine for GIS - C++ development files
+libgeos-3.5.1 - Geometry engine for Geographic Information Systems - C++ Library
+libgeos-c1v5 - Geometry engine for Geographic Information Systems - C Library
+libgeos-dbg - Debugging symbols for the GEOS library
+libgeos-dev - Geometry engine for GIS - Development files
+libgeos-doc - Documentation for the GEOS GIS geometry engine library
+ruby-geos - GEOS bindings for Ruby
+gfan - program for computing with Groebner fans
+ghemical - GNOME molecular modelling environment
+gmsh - Three-dimensional finite element mesh generator
+gmsh-doc - Three-dimensional finite element mesh generator
+libgmsh-dev - Three-dimensional finite element mesh generator. Development files
+libgmsh2v5 - Three-dimensional finite element mesh generator. Shared library
+libjava-gmsh2 - Three-dimensional finite element mesh generator. Java wrapper
+python-gmsh - Three-dimensional finite element mesh generator. Python wrapper
+ghkl - diffractometer computation control application
+gir1.2-hkl-5.0 - diffractometer computation control library - gir binding
+libhkl-dbg - diffractometer computation control library - debug symbols
+libhkl-dev - diffractometer computation control library - development files
+libhkl-doc - diffractometer computation control library - documentation
+libhkl5 - diffractometer computation control library
+libjava3d-java - Java 3D API (java library)
+libjava3d-java-doc - Documentation for the Java3D API
+libjava3d-jni - Java3D API (java jni library)
+jsurf-alggeo - Java based visualization library for real algebraic geometry
+jsxcompressor - Pure Javascript implementation of deflate, unzip, base64_decode
+jsxgraph - Interactive Geometry with JavaScript
+kig - interactive geometry tool
+kturtle - educational programming environment
+libboost-geometry-utils-perl - Perl module providing bindings to the Boost Geometry library
+libcitygml-bin - Utils of libcitygml - citygmltest
+libcitygml-dev - Static and header files of libcitygml
+libcitygml2 - Open source C++ library for parsing CityGML files
+libgeometry-primitive-perl - module to represent geometric entities
+libmath-geometry-voronoi-perl - Perl module to compute Voronoi diagrams from sets of points
+libmapnik-dev - C++ toolkit for developing GIS applications (devel)
+libmapnik3.0 - C++ toolkit for developing GIS applications (libraries)
+mapnik-doc - C++ toolkit for developing GIS applications (doc)
+mapnik-utils - C++ toolkit for developing GIS applications (utilities)
+mocassin - MOnte CArlo SimulationS of Ionised Nebulae
+mocassin-benchmarks - benchmarks for the photoionisation code MOCASSIN
+mocassin-data - atomic and optical data for the photoionisation code MOCASSIN
+mocassin-examples - Examples for the photoionisation code MOCASSIN
+molds - Semi-empirical electronic structure and molecular dynamics
+montage - Toolkit for assembling FITS images into mosaics
+mpqc - Massively Parallel Quantum Chemistry Program
+mpqc3 - Massively Parallel Quantum Chemistry Program
+mrpt-doc - Mobile Robot Programming Toolkit - Documentation and examples
+ocamlgraph-editor - graphical graph editor based on hyperbolic geometry
+octave-geometry - geometric computing functions for Octave
+openbabel - Chemical toolbox utilities (cli)
+libopencsg-dev - image-based CSG library using OpenGL (development files)
+libopencsg-example - image-based CSG library using OpenGL (example program)
+libopencsg1 - image-based CSG (Constructive Solid Geometry) library using OpenGL
+libopencsg1-dbg - debugging symbols for libopencsg
+libopenctm-dev - Library headers for compression of 3D triangle meshes
+libopenctm1 - Library for compression of 3D triangle meshes
+openctm-doc - Documentation for OpenCTM library and tools
+openctm-tools - Tools for compression of 3D triangle meshes
+python-openctm - Python bindings for OpenCTM library
+pd-gil - Geometry Interaction Library for Pure Data / Gem
+libplib-dev - Portability Libraries: Development package
+libplib1 - Portability Libraries: Run-time package
+libplib-doc - Portability Libraries: documentation and examples
+libcsiro0 - Scientific plotting library (CSIRO libraries)
+polymake - Tool for algorithmic discrete geometry
+liblwgeom-2.3-0 - PostGIS "Lightweight Geometry" library
+liblwgeom-dev - PostGIS "Lightweight Geometry" library - Development files
+psi4 - Quantum Chemical Program Suite
+psi3 - Quantum Chemical Program Suite
+pyfai - Fast Azimuthal Integration scripts
+python-pyfai - Fast Azimuthal Integration scripts - Python2
+python-pyfai-dbg - Fast Azimuthal Integration scripts - Python2 debug
+python-pyfai-doc - Fast Azimuthal Integration scripts - Documentation
+python3-pyfai - Fast Azimuthal Integration scripts - Python3
+python3-pyfai-dbg - Fast Azimuthal Integration scripts - Python3 debug
+python-demgengeo - DEMGenGeo is a library for creating geometry files
+python-geopandas - Python tools for geographic data
+python-geopandas-doc - Documentation for the geopandas library
+python3-geopandas - Python3 tools for geographic data
+python-mapnik - Python 2 interface to the mapnik library
+python3-mapnik - Python 3 interface to the mapnik library
+qrouter - Multi-level, over-the-cell maze router
+librdkit-dev - Collection of cheminformatics and machine-learning software (development files)
+librdkit1 - Collection of cheminformatics and machine-learning software (shared libraries)
+python-rdkit - Collection of cheminformatics and machine-learning software
+cl-geometry-msgs - Messages relating to Robot OS geometry, LISP interface
+libgeometry-msgs-dev - Messages relating to Robot OS geometry, C/C++ interface
+python-geometry-msgs - Messages relating to Robot OS geometry, Python interface
+ros-geometry-msgs - Messages relating to Robot OS geometry, definitions
+libtf2-geometry-msgs-dev - Robot OS geometry messages for tf2 transform library - dev files
+python-tf2-geometry-msgs - Robot OS tf2 transform library for Bullet - Python
+liblaser-geometry-dev - Robot OS laser geometry package - development files
+liblaser-geometry0d - Robot OS laser geometry package
+python-laser-geometry - Robot OS laser geometry package - Python bindings
+ros-desktop - Robot OS desktop metapackage
+ros-perception - Python Robot OS perception metapackage
+libimage-geometry-dev - image_geometry Robot OS package - development
+libimage-geometry0d - image_geometry Robot OS package - runtime
+python-image-geometry - image_geometry Robot OS package - Python bindings
+libsfcgal-dev - Library for ISO 19107:2013 and OGC SFA 1.2 for 3D operations (dev part)
+libsfcgal1 - Library for ISO 19107:2013 and OGC SFA 1.2 for 3D operations (runtime part)
+sfcgal-dbg - Debug symbols for SFCGAL
+libsilo-bin - Utilities to manipulate libsilo files
+libsilo-dev - Development files for SILO Scientific I/O library from LLNL
+libsiloh5-0 - SILO Science I/O library from LLNL
+python-silo - Python interface to the SILO Scientific I/O library
+python3-silo - Python3 interface to the SILO Scientific I/O library
+libsingular4 - Computer Algebra System for Polynomial Computations -- library package
+libsingular4-dev - Computer Algebra System for Polynomial Computations -- development package
+libsingular4-dev-common - Computer Algebra System for Polynomial Computations -- common dev package
+singular - Computer Algebra System for Polynomial Computations
+singular-data - Computer Algebra System for Polynomial Computations -- shared data
+singular-dev-doc - Computer Algebra System for Polynomial Computations -- developer documentation
+singular-doc - Computer Algebra System for Polynomial Computations -- user documentation
+singular-modules - Computer Algebra System for Polynomial Computations -- module package
+singular-ui - Computer Algebra System for Polynomial Computations -- console user interface
+singular-ui-emacs - Computer Algebra System for Polynomial Computations -- emacs user interface
+singular-ui-xterm - Computer Algebra System for Polynomial Computations -- xterm user interface
+solvespace - Parametric 2d/3d CAD
+libspatialite-dbg - Geospatial extension for SQLite - debugging symbols
+libspatialite-dev - Geospatial extension for SQLite - development files
+libspatialite7 - Geospatial extension for SQLite - libraries
+libsqlite3-mod-spatialite - Geospatial extension for SQLite - loadable module
+spatialite-gui - user-friendly graphical user interface for SpatiaLite
+spatialite-gui-dbg - user-friendly graphical user interface for spatialite - debugging symbols
+spatialite-bin - Geospatial extension for SQLite - tools
+spd - Synchrotron image corrections and azimuthal integration
+suitename - categorize each suite in an RNA backbone
+surf-alggeo - visualization of real algebraic geometry
+surf-alggeo-doc - visualization of real algebraic geometry -- manual
+surf-alggeo-nox - visualization of real algebraic geometry -- no X support
+texlive-latex-base - TeX Live: LaTeX fundamental packages
+texlive-pictures - TeX Live: Graphics, pictures, diagrams
+texlive-pstricks - TeX Live: PSTricks
+texlive-lang-german - TeX Live: German
+v-sim - Visualize atomic structures
+xfoil - program for the design and analysis of subsonic airfoils
+xtermcontrol - dynamic configuration of xterm properties
+xtermset - change the characteristics of an xterm
+mgltools-dejavu - visualization of 3D geometry using the OpenGL with Python
+libnppig8.0 - NVIDIA Performance Primitives lib for Image Geometry transforms
+biber - Much-augmented BibTeX replacement for BibLaTeX users
+jabref - graphical frontend to manage BibTeX and BibLaTeX databases
+texlive-bibtex-extra - TeX Live: BibTeX additional styles
+texlive-latex-extra - TeX Live: LaTeX additional packages
+texlive-lang-german - TeX Live: German
+texlive-latex-extra - TeX Live: LaTeX additional packages
+texlive-lang-german - TeX Live: German
+liblatex-table-perl - Perl extension for the automatic generation of LaTeX tables
+texlive-latex-recommended - TeX Live: LaTeX recommended packages
+texlive-lang-french - TeX Live: French
+texlive-lang-german - TeX Live: German
+texlive-luatex - TeX Live: LuaTeX packages
+texlive-latex-extra - TeX Live: LaTeX additional packages
+libgradle-android-plugin-java - Android Plugin for Gradle
+libjs-angularjs - lets you write client-side web applications as if you had a smarter browser
+libapache2-mod-xforward - Apache module implements redirection based on X-Forward response header
+apachedex - Compute APDEX from Apache-style logs
+apachetop - Realtime Apache monitoring tool
+apt-cacher - Caching proxy server for Debian/Ubuntu software repositories
+apt-transport-tor - APT transport for anonymous package downloads via Tor
+ario - GTK+ client for the Music Player Daemon (MPD)
+ario-common - GTK+ client for the Music Player Daemon (MPD) (Common files)
+xul-ext-automatic-save-folder - download helper which automates the sorting and saving of files
+awffull - web server log analysis program
+basez - base 16/32/64 encode/decode data to standard output
+basket - multi-purpose note-taking application for KDE
+basket-data - data files for BasKet Notepads
+bibtexconv - BibTeX Converter
+libbindex-java - OSGi BIndex reader
+python-bobo - Web application framework for the impatient
+r-cran-boot - GNU R package for bootstrapping functions from Davison and Hinkley
+bpython - fancy interface to the Python 2 interpreter
+bpython3 - fancy interface to the Python 3 interpreter
+browser-history - User daemon that tracks URLs looked at and logs them
+btrbk - backup tool for btrfs subvolumes
+buildtorrent - command line torrent creation program
+buxon - SIOC forums browser
+bzrtools - Collection of tools for bzr
+libc-icap-mod-urlcheck - URL Check Service for c-icap
+cakephp - rapid application development framework for PHP
+camo - SSL/TLS image proxy to prevent mixed-content warnings
+cewl - custom word list generator
+cgit - hyperfast web frontend for git repositories written in C
+choqok - KDE micro-blogging client
+cl-curry-compose-reader-macros - Reader macros for function partial application and composition.
+clamav-unofficial-sigs - update script for 3rd-party clamav signatures
+libcmph-dev - C Minimal Perfect Hashing Library development files
+libcmph-tools - C Minimal Perfect Hashing Library command line utilities
+libcmph0 - C Minimal Perfect Hashing Library
+collectd-core - statistics collection and monitoring daemon (core system)
+coquelicot - "one-click" file sharing web application with a focus on users' privacy
+cupt - flexible package manager -- console interface
+libcupt4-1-downloadmethod-curl - flexible package manager -- libcurl download method
+curl - command line tool for transferring data with URL syntax
+libcurl3 - easy-to-use client-side URL transfer library (OpenSSL flavour)
+libcurl3-dbg - debugging symbols for libcurl (OpenSSL, GnuTLS and NSS flavours)
+libcurl3-gnutls - easy-to-use client-side URL transfer library (GnuTLS flavour)
+libcurl3-nss - easy-to-use client-side URL transfer library (NSS flavour)
+libcurl4-doc - documentation for libcurl
+libcurl4-gnutls-dev - development files and documentation for libcurl (GnuTLS flavour)
+libcurl4-nss-dev - development files and documentation for libcurl (NSS flavour)
+libcurl4-openssl-dev - development files and documentation for libcurl (OpenSSL flavour)
+curlftpfs - filesystem to access FTP hosts based on FUSE and cURL
+daemon - turns other processes into daemons
+dansguardian - Web content filtering
+darkstat - network traffic analyzer
+dclock - Digital clock for the X Window System with flexible display
+dehydrated - ACME client implemented in Bash
+letsencrypt.sh - ACME client - transitional dummy package to dehydrated
+deluge-gtk - bittorrent client written in Python/PyGTK (GTK+ ui)
+deluge-web - bittorrent client written in Python/PyGTK (web ui)
+deluged - bittorrent client written in Python/PyGTK (daemon)
+devscripts - scripts to make the life of a Debian Package maintainer easier
+python-django-markupfield - custom Django field for easy use of markup in text fields
+python3-django-markupfield - custom Django field for easy use of markup in text fields (Python3 version)
+python-django-sitetree - site tree, menu and breadcrumbs navigation for Django
+python-django-sitetree-doc - site tree, menu and breadcrumbs navigation for Django (Documentation)
+python3-django-sitetree - site tree, menu and breadcrumbs navigation for Django (Python3 version)
+python-djangorestframework-fsm-transitions - Django-FSM transitions for Django REST Framework
+python3-djangorestframework-fsm-transitions - Django-FSM transitions for Django REST Framework (Python3 version)
+python-djangorestframework-generators - Generate DRF Serializers, Views, and URLs (Python2 version)
+python3-djangorestframework-generators - Generate DRF Serializers, Views, and URLs (Python3 version)
+dsniff - Various tools to sniff network traffic for cleartext insecurities
+duck - checks URLs in debian/control and debian/upstream files
+e2guardian - Web content filtering (Dansguardian fork)
+editmoin - edit MoinMoin wiki pages with your favourite editor
+python-egenix-mx-base-dbg - extension files for the egenix-mx-base distribution (debug build)
+python-egenix-mxurl - flexible URL datatype for Python
+python-egenix-mxurl-doc - flexible URL datatype for Python (documentation)
+elida - pbuilder mail interface
+emacs-goodies-el - Miscellaneous add-ons for Emacs
+eot-utils - Tools to convert from OTF or TTF to EOT font format
+feed2omb - Announces new articles in a feed to an open microblogging service
+fetch-crl - Downloads Certificate Revocation Lists
+ffproxy - Light and customizable http(s) proxy server with ipv6 support
+filetea - Web-based file sharing system
+flickcurl-doc - utilities to call the Flickr API from command line - documentation
+flickcurl-utils - utilities to call the Flickr API from command line
+libflickcurl-dev - C library for accessing the Flickr API - development files
+libflickcurl0 - C library for accessing the Flickr API
+libflickcurl0-dbg - C library for accessing the Flickr API - debugging symbols
+fonts-arphic-ukai - "AR PL UKai" Chinese Unicode TrueType font collection Kaiti style
+fonts-arphic-uming - "AR PL UMing" Chinese Unicode TrueType font collection Mingti style
+xul-ext-foxyproxy-standard - advanced proxy management tool for Firefox and Thunderbird
+fp-units-net - Free Pascal - networking units dependency package
+fp-units-net-3.0.0 - Free Pascal - networking units
+elpa-fsm - state machine library
+fuzzyocr - spamassassin plugin to check image attachments
+gajim-urlimagepreview - displays images inside Gajim chat window
+gambas3-gb-net-curl - Gambas advanced networking component
+gambas3-gb-util-web - This component provides many utilities useful for web applications
+gbrowse - GMOD Generic Genome Browser
+geany-plugin-autoclose - auto-closing plugin for Geany
+gfal2-plugin-dcap - Provides dcap support for gfal2
+gfal2-plugin-gridftp - Provides the gridftp support for gfal2
+gfal2-plugin-rfio - Provides rfio support for gfal2
+gfal2-plugin-srm - Provides srm support for gfal2
+gmrun - Featureful CLI-like GTK+ application launcher
+gnupg1 - GNU privacy guard - a free PGP replacement ("classic" version)
+gnupg1-curl - GNU privacy guard - a free PGP replacement (cURL helpers for "classic" version)
+goaccess - log analyzer and interactive viewer for the Apache Webserver
+golang-github-gorilla-context-dev - General purpose registry for global request variables
+golang-github-bmizerany-pat-dev - Sinatra style pattern muxer for Go's net/http library
+golang-github-dgrijalva-jwt-go-dev - Golang implementation of JSON Web Tokens (JWT)
+golang-github-dgrijalva-jwt-go-v3-dev - Golang implementation of JSON Web Tokens (JWT)
+golang-github-google-go-querystring-dev - library for encoding structs into URL query parameters
+golang-github-gorilla-handlers-dev - collection of useful handlers for Go's net/http package
+golang-github-gorilla-mux-dev - powerful URL router and dispatcher for golang
+golang-github-gosimple-slug-dev - URL-friendly slugify with multiple languages support
+golang-github-hashicorp-go-getter-dev - download from a URL using a variety of protocols
+golang-github-mvdan-xurls-dev - extract urls from text
+golang-github-opennota-urlesc-dev - Proper URL escaping as per RFC3986 for Go
+golang-github-puerkitobio-purell-dev - tiny Go library to normalize URLs
+golang-github-tideland-golib-dev - collection of misc Go packages
+goldendict - feature-rich dictionary lookup program
+goldeneye - HTTP DoS test tool
+googler - Power tool to Google(Web & News) and Google Site Search from the terminal
+groovebasin - music player server with a web-based user interface
+gsl-bin - GNU Scientific Library (GSL) -- binary package
+libgsl-dbg - GNU Scientific Library (GSL) -- debug symbols package
+libgsl-dev - GNU Scientific Library (GSL) -- development package
+libgsl2 - GNU Scientific Library (GSL) -- library package
+libghc-curl-dev - GHC libraries for the libcurl Haskell bindings
+libghc-curl-doc - Documentation for the libcurl Haskell bindings; documentation
+libghc-curl-prof - Profiling libraries for the libcurl Haskell bindings; profiling libraries
+hdav - command-line WebDAV client
+libghc-http-api-data-dev - converting to/from HTTP API data
+libghc-http-api-data-doc - converting to/from HTTP API data; documentation
+libghc-http-api-data-prof - converting to/from HTTP API data; profiling libraries
+libghc-hxt-dev - collection of tools for processing XML with Haskell
+libghc-hxt-doc - collection of tools for processing XML with Haskell; documentation
+libghc-hxt-prof - collection of tools for processing XML with Haskell; profiling libraries
+libghc-hxt-curl-dev - LibCurl interface for HXT
+libghc-hxt-curl-doc - LibCurl interface for HXT; documentation
+libghc-hxt-curl-prof - LibCurl interface for HXT; profiling libraries
+libghc-hxt-http-dev - Interface to native Haskell HTTP package HTTP
+libghc-hxt-http-doc - Interface to native Haskell HTTP package HTTP; documentation
+libghc-hxt-http-prof - Interface to native Haskell HTTP package HTTP; profiling libraries
+libghc-jwt-dev - JSON Web Token (JWT) decoding and encoding
+libghc-jwt-doc - JSON Web Token (JWT) decoding and encoding; documentation
+libghc-jwt-prof - JSON Web Token (JWT) decoding and encoding; profiling libraries
+libghc-lambdabot-reference-plugins-dev - Lambdabot reference plugins
+libghc-lambdabot-reference-plugins-doc - Lambdabot reference plugins; documentation
+libghc-lambdabot-reference-plugins-prof - Lambdabot reference plugins; profiling libraries
+libghc-sandi-dev - A Haskell library of data encoders and decoders
+libghc-sandi-doc - A Haskell library of data encoders and decoders; documentation
+libghc-sandi-prof - A Haskell library of data encoders and decoders; profiling libraries
+libghc-url-dev - Haskell library for working with URLs
+libghc-url-doc - Haskell library for working with URLs; documentation
+libghc-url-prof - Haskell library for working with URLs; profiling libraries
+libghc-web-routes-dev - library for correctness/composability of URLs
+libghc-web-routes-doc - library for correctness/composability of URLs; documentation
+libghc-web-routes-prof - library for correctness/composability of URLs; profiling libraries
+libghc-web-routes-boomerang-dev - correctness and composability of application URLs
+libghc-web-routes-boomerang-doc - correctness and composability of application URLs; documentation
+libghc-web-routes-boomerang-prof - correctness and composability of application URLs; profiling libraries
+libhessian-java - Java implementation of a binary protocol for web services
+libhessian-java-doc - Documentation for libhessian-java
+hlins - Insert URLs into html documents
+html-xml-utils - HTML and XML manipulation utilities
+html2ps - HTML to PostScript converter
+xhtml2ps - HTML to PostScript converter (Tcl/Tk GUI frontend)
+httpie - CLI, cURL-like tool for humans
+httping - ping-like program for http-requests
+icecream - lightweight stream download utility
+impressive-display - Impressive based PDF display
+iog - network I/O grapher
+ippl - IP protocols logger
+ippl-dbg - debugging systems for ippl
+irclog2html - Converts IRC log files to HTML with pretty colours
+irssi-scripts - collection of scripts for irssi
+libjs-jquery-galleriffic - jQuery Galleriffic plugin
+libjs-jquery-history - jQuery history plugin
+libjs-jquery-metadata - jQuery plugin for parsing metadata from elements
+libjs-jquery-slugify - url slug creation plugin for jQuery
+libjsoup-java - Java HTML parser that makes sense of real-world HTML soup
+libjsoup-java-doc - Documentation for jsoup HTML Parser
+kbibtex - BibTeX editor for KDE
+r-cran-kernsmooth - GNU R package for kernel smoothing and density estimation
+kmplayer - media player for KDE
+ktorrent - BitTorrent client based on the KDE platform
+python-lazr.uri - library for parsing, manipulating, and generating URIs
+python3-lazr.uri - library for parsing, manipulating, and generating URIs
+lemonldap-ng - OpenID-Connect, CAS and SAML compatible Web-SSO system
+lemonldap-ng-doc - Lemonldap::NG Web-SSO system documentation
+lemonldap-ng-fastcgi-server - Lemonldap::NG FastCGI server
+lemonldap-ng-fr-doc - French documentation of Lemonldap::NG Web-SSO system
+lemonldap-ng-handler - Lemonldap::NG handler part
+liblemonldap-ng-common-perl - Lemonldap::NG common files
+liblemonldap-ng-handler-perl - Lemonldap::NG handler common libraries
+liblemonldap-ng-manager-perl - Lemonldap::NG manager part
+liblemonldap-ng-portal-perl - Lemonldap::NG authentication portal part
+libapache-authznetldap-perl - Apache-Perl module that enables to authorize a user with LDAP attributes
+libapache2-mod-form - Apache module to decode data submitted from Web forms
+libapache2-mod-form-dev - Apache module to decode data submitted from Web forms (development files)
+libapache2-mod-qos - quality of service module for the apache2
+libapache2-mod-apreq2 - generic Apache request library - Apache module
+libapache2-request-perl - generic Apache request library - Perl modules
+libapreq2-3 - generic Apache request library
+libapreq2-dev - generic Apache request library - development files
+libapreq2-doc - generic Apache request library - documentation
+libaspect-perl - module for Aspect-Oriented Programming in Perl
+libauthen-bitcard-perl - Perl module providing authentication using the Bitcard service
+libaws3.3.2-dev - Ada Web Server development files
+libbencode-perl - Perl module for BitTorrent serialisation format
+libbot-basicbot-pluggable-perl - extended simple IRC bot for pluggable modules
+libbrowser-open-perl - Perl module to open a browser in a given URL
+libcatalyst-action-renderview-perl - Sensible default end action for Catalyst
+libcatalyst-plugin-static-simple-perl - Catalyst plugin for easy serving of static pages
+libcatalyst-plugin-subrequest-perl - deprecated Catalist plugin for making subrequests to actions
+libcgi-ajax-perl - Perl-specific system for writing Asynchronous web applications
+libcgi-application-plugin-linkintegrity-perl - plugin to make tamper-resisistent links in CGI::Application
+libconfig-gitlike-perl - Perl module for Git-compatible config file parsing
+libcpan-distnameinfo-perl - module to extract distribution name and version from a filename
+libdap23 - Open-source Project for a Network Data Access Protocol library
+libdata-uniqid-perl - Perl extension for simple genrating of unique id's
+libdatetime-format-w3cdtf-perl - module to parse and format W3CDTF datetime strings
+libdatetime-timezone-perl - framework exposing the Olson time zone database to Perl
+libdbd-sqlite3-perl - Perl DBI driver with a self-contained RDBMS
+libdbix-fulltextsearch-perl - Indexing documents with MySQL as storage
+libdigest-md5-file-perl - Perl extension for getting MD5 sums for files and urls
+libdiscid-dev - library for creating MusicBrainz DiscIDs (development files)
+libdiscid-doc - library for creating MusicBrainz DiscIDs (documentation)
+libdiscid0 - library for creating MusicBrainz DiscIDs
+libdist-zilla-plugin-bugtracker-perl - Dist::Zilla plugin to automatically sets the bugtracker URL and mailto
+libdist-zilla-plugin-githubmeta-perl - Automatically include GitHub meta information in META.yml
+libdist-zilla-plugin-repository-perl - Dist::Zilla plugin to discovery repository URL from svn/svk/Git checkout
+libdmx-dev - X11 Distributed Multihead extension library (development headers)
+libdmx1 - X11 Distributed Multihead extension library
+libdmx1-dbg - X11 Distributed Multihead library (debug package)
+libembperl-perl - system for building dynamic websites with Perl
+libfontenc-dev - X11 font encoding library (development headers)
+libfontenc1 - X11 font encoding library
+libfontenc1-dbg - X11 font encoding library (debug package)
+libfs-dev - X11 Font Services library (development headers)
+libfs6 - X11 Font Services library
+libfs6-dbg - X11 Font Services library (debug package)
+libfurl-perl - lightning-fast URL fetcher
+libgearman-client-perl - client for the Gearman distributed job system
+libgeo-osm-tiles-perl - module for calculating tile numbers for OpenStreetMap
+libglib-perl - interface to the GLib and GObject libraries
+libgravatar-url-perl - Perl interface to make URLs for Gravatars from an email address
+libhijk-perl - simple perl module for easily accessing HTTP services
+libhtml-linkextractor-perl - Perl module used to extract links from HTML documents
+libhtml-linklist-perl - module that creates a 'smart' list of HTML links
+libhtml-tidy-perl - module for (X)HTML validation
+libhtml-tiny-perl - HTML::Tiny - Lightweight, dependency free HTML/XML generation
+libhttp-body-perl - module for processing data from HTTP POST requests
+libhttp-browserdetect-perl - module to extract system data from an HTTP User Agent string
+libhttp-cache-transparent-perl - Perl module used to transparently cache HTTP requests
+libhttp-cookies-perl - HTTP cookie jars
+libhttp-entity-parser-perl - PSGI compliant HTTP Entity Parser
+libice-dev - X11 Inter-Client Exchange library (development headers)
+libice6 - X11 Inter-Client Exchange library
+libice6-dbg - X11 Inter-Client Exchange library (debug package)
+libio-all-lwp-perl - Perl module to use HTTP and FTP URLs with IO::All
+libjgrapht0.8-java - mathematical graph theory library for Java
+libjira-client-perl - Perl interface to JIRA's API
+libjsonrpccpp-client0 - library implementing json-rpc C++ clients
+libjsonrpccpp-client0-dbg - debugging symbols for libjsonrpccpp-client0
+libjson-webtoken-perl - JSON Web Token (JWT) implementation
+liblo-dev - Lightweight OSC library -- development files
+liblo-tools - Lightweight OSC library
+liblo7 - Lightweight OSC library
+liblog-fast-perl - fast and flexible logger
+liblwp-authen-wsse-perl - library for enabling X-WSSE authentication in LWP
+liblwp-mediatypes-perl - module to guess media type for a file or a URL
+liblwp-protocol-https-perl - HTTPS driver for LWP::UserAgent
+libmath-random-isaac-perl - Perl interface to the ISAAC PRNG Algorithm
+libmath-random-isaac-xs-perl - Perl implementation of the ISAAC PRNG (C/XS Accelerated)
+libmath-random-mt-perl - Perl implementation of the Mersenne Twister algorithm
+libmediawiki-api-perl - Perl interface to the MediaWiki API
+libmime-base64-urlsafe-perl - Perl version of Python's URL-safe base64 codec
+libmime-lite-html-perl - Transform HTML page into MIME email
+libmime-util-java - MIME types detector library
+libmojo-pg-perl - module to make PostgreSQL fun to use with Mojolicious
+libmojomojo-perl - wiki- and blog-inspired content management system
+libnet-google-safebrowsing2-perl - Perl extension for the Google Safe Browsing v2 API
+libnet-httpserver-perl - extensible HTTP server framework for Perl
+libnet-openid-consumer-perl - library for consumers of OpenID identities
+libnet-openid-server-perl - library for servers of OpenID identities
+libnet-sftp-foreign-perl - client for the Secure File Transfer Protocol
+libnet-twitter-perl - Perl interface to the Twitter social network
+libphp-snoopy - Snoopy is a PHP class that simulates a web browser
+libplack-middleware-cache-perl - Plack middleware for caching responses of certain URLs
+libplack-middleware-status-perl - Perl module for Plack middleware mapping URLs to status codes
+libplack-middleware-test-stashwarnings-perl - module for testing plack application warnings
+libr3-0 - High-performance URL router library
+libr3-dev - High-performance URL router library (development files)
+librdf-linkeddata-perl - simple Linked Data implementation
+librdf-prefixes-perl - simple way to turn URIs into QNames
+librole-rest-client-perl - REST Client Role
+libscope-guard-perl - lexically scoped resource management
+libsimple-validation-java - library for quickly adding validation code to Swing user-interfaces
+libsm-dev - X11 Session Management library (development headers)
+libsm6 - X11 Session Management library
+libsm6-dbg - X11 Session Management library (debug package)
+libsru-perl - framework for Search and Retrieval by URL
+libstring-dirify-perl - utility converting string to a safe format
+libtemplate-plugin-clickable-perl - Make URLs clickable in HTML
+libtemplate-plugin-gravatar-perl - Template Toolkit plugin for generating Gravatar URLs
+libtest-cpan-meta-perl - test module to validate package metadata for CPAN
+libtest-cukes-perl - test framework inspired by Cucumber
+libtest-json-perl - module for testing JSON data
+libtest-rdf-doap-version-perl - tests 'meta/changes.ttl' is up to date
+libtext-multimarkdown-perl - module to convert MultiMarkdown syntax to (X)HTML
+liburi-encode-perl - Perl module to encode and decode strings to URIs
+liburi-find-perl - module to find URIs in arbitrary text
+liburi-find-simple-perl - simple interface to URI::Find
+liburi-nested-perl - module for handling nested URIs
+liburi-perl - module to manipulate and access URI strings
+libwiki-toolkit-plugin-ping-perl - "ping" various services when nodes are written
+libwiki-toolkit-plugin-rss-reader-perl - module to retrieve RSS feeds for inclusion in Wiki::Toolkit nodes
+libwww-curl-perl - Perl bindings to libcurl
+libwww-form-urlencoded-perl - parser and builder for application/x-www-form-urlencoded format
+libwww-form-urlencoded-xs-perl - XS implementation of application/x-www-form-urlencoded parser/builder
+libwww-freshmeat-perl - module to automate searches on Freshmeat.net
+libwww-indexparser-perl - Fetch and parse the directory index from a web server
+libwww-mechanize-gzip-perl - Perl module to fetch webpages with gzip-compression
+libwww-mechanize-perl - module to automate interaction with websites
+libwww-robotrules-perl - database of robots.txt-derived permissions
+libwww-shorten-github-perl - shorten GitHub URLs using GitHub's URL shortener
+libwww-shorten-perl - interface to URL shortening sites
+libwww-shorten-simple-perl - factory wrapper around WWW::Shorten to avoid imports
+libwwwbrowser-perl - Platform independent means to start a WWW browser
+libx11-6 - X11 client-side library
+libx11-data - X11 client-side library
+libx11-dev - X11 client-side library (development headers)
+libx11-doc - X11 client-side library (development documentation)
+libx11-xcb-dev - Xlib/XCB interface library (development headers)
+libx11-xcb1 - Xlib/XCB interface library
+libxau-dev - X11 authorisation library (development headers)
+libxau6 - X11 authorisation library
+libxau6-dbg - X11 authorisation library (debug package)
+libxaw7 - X11 Athena Widget library
+libxaw7-dbg - X11 Athena Widget library (debug package)
+libxaw7-dev - X11 Athena Widget library (development headers)
+libxcomposite-dev - X11 Composite extension library (development headers)
+libxcomposite1 - X11 Composite extension library
+libxcomposite1-dbg - X11 Composite extension library (debug package)
+libxdamage-dev - X11 damaged region extension library (development headers)
+libxdamage1 - X11 damaged region extension library
+libxdamage1-dbg - X11 damaged region extension library (debug package)
+libxdmcp-dev - X11 authorisation library (development headers)
+libxdmcp6 - X11 Display Manager Control Protocol library
+libxdmcp6-dbg - X11 authorisation library (debug package)
+libxext-dev - X11 miscellaneous extensions library (development headers)
+libxext-doc - X11 miscellaneous extensions library (documentation)
+libxext6 - X11 miscellaneous extension library
+libxext6-dbg - X11 miscellaneous extensions library (debug package)
+libxfixes-dev - X11 miscellaneous 'fixes' extension library (development headers)
+libxfixes3 - X11 miscellaneous 'fixes' extension library
+libxfont-dev - X11 font rasterisation library (development headers)
+libxfont2 - X11 font rasterisation library
+libxfont1 - X11 font rasterisation library
+libxfont1-dev - X11 font rasterisation library (development headers)
+libxi-dev - X11 Input extension library (development headers)
+libxi6 - X11 Input extension library
+libxinerama-dev - X11 Xinerama extension library (development headers)
+libxinerama1 - X11 Xinerama extension library
+libxinerama1-dbg - X11 Xinerama extension library (debug package)
+libxkbcommon-dev - library interface to the XKB compiler - development files
+libxkbcommon-x11-0 - library to create keymaps with the XKB X11 protocol
+libxkbcommon-x11-dev - library to create keymaps with the XKB X11 protocol - development files
+libxkbcommon0 - library interface to the XKB compiler - shared library
+libxkbfile-dev - X11 keyboard file manipulation library (development headers)
+libxkbfile1 - X11 keyboard file manipulation library
+libxkbfile1-dbg - X11 keyboard file manipulation library (debug package)
+libxml-grove-perl - Perl module for accessing parsed *ML instances
+libxml-smart-perl - Perl module for access to parsed XML trees
+libxml-stream-perl - module for manipulating streaming XML data
+libxmu-dev - X11 miscellaneous utility library (development headers)
+libxmu-headers - X11 miscellaneous utility library headers
+libxmu6 - X11 miscellaneous utility library
+libxmu6-dbg - X11 miscellaneous utility library (debug package)
+libxmuu-dev - X11 miscellaneous micro-utility library (development headers)
+libxmuu1 - X11 miscellaneous micro-utility library
+libxmuu1-dbg - X11 miscellaneous micro-utility library (debug package)
+libxpresent-dev - X11 Present extension library (development headers)
+libxpresent1 - X11 Present extension library
+libxrandr-dev - X11 RandR extension library (development headers)
+libxrandr2 - X11 RandR extension library
+libxrender-dev - X Rendering Extension client library (development files)
+libxrender1 - X Rendering Extension client library
+libxres-dev - X11 Resource extension library (development headers)
+libxres1 - X11 Resource extension library
+libxres1-dbg - X11 Resource extension library (debug package)
+libxss-dev - X11 Screen Saver extension library (development headers)
+libxss1 - X11 Screen Saver extension library
+libxss1-dbg - X11 Screen Saver extension library (debug package)
+libxt-dev - X11 toolkit intrinsics library (development headers)
+libxt6 - X11 toolkit intrinsics library
+libxt6-dbg - X11 toolkit intrinsics library (debug package)
+libxtst-dev - X11 Record extension library (development headers)
+libxtst-doc - X11 Record extension library (documentation)
+libxtst6 - X11 Testing -- Record extension library
+libxv-dev - X11 Video extension library (development headers)
+libxv1 - X11 Video extension library
+libxvmc-dev - X11 Video extension library (development headers)
+libxvmc1 - X11 Video extension library
+libxxf86dga-dev - X11 Direct Graphics Access extension library (development headers)
+libxxf86dga1 - X11 Direct Graphics Access extension library
+libxxf86dga1-dbg - X11 Direct Graphics Access extension library (debug package)
+libxxf86vm-dev - X11 XFree86 video mode extension library (development headers)
+libxxf86vm1 - X11 XFree86 video mode extension library
+libxxf86vm1-dbg - X11 XFree86 video mode extension library (debug package)
+lighttpd - fast webserver with minimal memory footprint
+lighttpd-mod-magnet - control the request handling module for lighttpd
+lighttpd-mod-trigger-b4-dl - anti-deep-linking module for lighttpd
+linkchecker - check websites and HTML documents for broken links
+linklint - A fast link checker and web site maintenance tool
+python-livestreamer - library to extract video streams from various services - Python 2
+python-livestreamer-doc - library to extract video streams from various services - documentation
+python3-livestreamer - library to extract video streams from various services - Python 3
+lua-curl - libcURL bindings for the Lua language
+lua-curl-dev - libcURL development files for the Lua language
+lua-uri - pure Lua library to normalize and validate URIs/URLs
+lua-wsapi - Web server API abstraction layer for the Lua language
+lua-socket - TCP/UDP socket library for the Lua language
+python-m2crypto - Python wrapper for the OpenSSL library
+mediawiki2latex - Loads pages from MediaWiki and converts to LaTeX and PDF
+mh-e - Emacs interface to the MH mail system
+xul-ext-noscript - permissions manager for Firefox
+mpdcron - add scrobbler, rating, play counts and other functionalities to MPD
+mpv - video player based on MPlayer/mplayer2
+python-multipartposthandler - handler for urllib2 to enable multipart form uploading
+nagios-plugins-contrib - Plugins for nagios compatible monitoring systems
+nautilus-filename-repairer - Nautilus extension for filename encoding repair
+python-ndg-httpsclient - enhanced HTTPS support for httplib and urllib2 using PyOpenSSL for Python2
+python3-ndg-httpsclient - enhanced HTTPS support for httplib and urllib2 using PyOpenSSL for Python3
+netrik - text mode WWW browser with vi like keybindings
+node-body-parser - body parsing middleware - Node.js module
+node-etag - entity tag creator for - Node.js module
+node-github-url-from-git - Convert github git or gist url to an http url - Node.js module
+node-hosted-git-info - Provides metadata from Github, Bitbucket and Gitlab
+node-leaflet-hash - linkable location hashes for leaflet
+node-nopt - Command-line option parser for Node.js
+node-normalize-git-url - normalizes Git URLs
+node-original - Generate the origin from an URL or check if two URL/Origins are the same
+node-parseurl - parse a url with memoization
+node-requires-port - checks if a protocol requires a certain port number to be added to an URL
+node-serve-index - directory listings middleware for Node.js
+node-uid-safe - UID generator for cookie and URL
+node-url-join - Join urls and normalize as in path.join
+node-url-parse - Parse URL in node using the URL module and in the browser using the DOM
+nodejs - evented I/O for V8 javascript
+nomnom - download videos from Youtube and other similar video websites
+liboauth-signpost-java - simple OAuth message signing for Java
+libcurl-ocaml - OCaml curl bindings (Runtime Library)
+libcurl-ocaml-dev - OCaml libcurl bindings (Development package)
+openssh-known-hosts - download, filter and merge known_hosts for OpenSSH
+libopusfile-dev - High-level API for basic manipulation of Ogg Opus audio streams
+libopusfile0 - High-level API for basic manipulation of Ogg Opus audio streams
+org-mode - keep notes, maintain ToDo lists, and do project planning in emacs
+libotbcurladapters-5.8-1 - ORFEO Toolbox library - OTBCurlAdapters
+libpacparser-dev - library to parse proxy auto-config files (development files)
+libpacparser1 - library to parse proxy auto-config files
+python-pacparser - Python module to parse proxy auto-config files
+python3-pacparser - Python 3 module to parse proxy auto-config files
+python3-pafy - Download videos and retrieve metadata from YouTube
+libpantomime1.2-dev - GNUstep framework for mail handling (development files)
+php-curl - CURL module for PHP [default]
+php-horde-routes - Horde Routes URL mapping system
+php-horde-service-urlshortener - Horde_Service_UrlShortener Class
+php-horde-url - Horde Url class
+php-http-request2 - Provides an easy way to perform HTTP requests
+php-net-url - Easy parsing of Urls
+php-net-url2 - Class for parsing and handling URL
+php-pear - PEAR Base System
+php-http - PECL HTTP module for PHP Extended HTTP Support
+php-sabre-uri - several functions for working with URIs
+php7.0-curl - CURL module for PHP
+libpurple-bin - multi-protocol instant messaging library - extra utilities
+pmccabe - McCabe-style function complexity and line counting for C and C++
+podget - Podcast aggregrator/downloader optimized for cron
+podracer - podcast aggregator/downloader
+policyrcd-script-zg2 - policy-compliant interface from invoke-rc.d to local config files
+prey - utility for tracking stolen computers
+prosody-modules - Selection of community modules for Prosody
+psgml - Emacs major mode for editing SGML documents
+puf - Parallel URL fetcher
+python-purl - URL interrogation and manipulation
+python3-purl - URL interrogation and manipulation (Python3 version)
+pybit-svn - Subversion post commit hook for pybit
+python-pycurl - Python bindings to libcurl
+python-pycurl-dbg - Python bindings to libcurl (debug extension)
+python-pycurl-doc - Python bindings to libcurl (documentation)
+python3-pycurl - Python bindings to libcurl (Python 3)
+python3-pycurl-dbg - Python bindings to libcurl (debug extension, Python 3)
+python-pytest-httpbin - py.test plugin providing a local httpbin
+python3-pytest-httpbin - py.test plugin providing a local httpbin (Python 3)
+python-bleach - whitelist-based HTML-sanitizing library (Python 2)
+python-bleach-doc - whitelist-based HTML-sanitizing library (common documentation)
+python3-bleach - whitelist-based HTML-sanitizing library (Python 3)
+python-bottle - fast and simple WSGI-framework for Python
+python-bottle-doc - fast and simple WSGI-framework for Python - documentation
+python3-bottle - fast and simple WSGI-framework for Python3
+python-coffin - Jinja2 adapter for Django - Python 2.x
+python3-coffin - Jinja2 adapter for Django - Python 3.x
+python-django - High-level Python web development framework (Python 2 version)
+python3-django - High-level Python web development framework (Python 3 version)
+python-django-gravatar2 - Python2 library that provides essential Gravatar support
+python3-django-gravatar2 - Python3 library that provides essential Gravatar support
+python-django-rosetta - Eases the translation process of your Django projects
+python-django-shorturls - Short URL handler for Django applications
+python-git-os-job - show the OpenStack job logs for a commit - Python 2.7
+python3-git-os-job - Show the OpenStack job logs for a commit - Python 3.x
+python-keepalive - urllib keepalive support for Python 2
+python3-keepalive - urllib keepalive support for Python 3
+python-mrjob - MapReduce framework for writing and running Hadoop Streaming jobs
+python3-multidict - multidict implementation (Python library)
+python3-multidict-dbg - multidict implementation (Python library, debug extension)
+python-ntlm - Python library that provides NTLM support
+python-ofxhome - ofxhome.com financial institution lookup REST client
+python-publicsuffix - Python module to get a domain suffix using the Public Suffix List
+python3-publicsuffix - Python3 module to get a domain suffix using the Public Suffix List
+python-pyldap - implements an LDAP client - Python 2.7
+python-pyldap-doc - implements an LDAP client - doc
+python3-pyldap - implements an LDAP client - Python 3.x
+python-pymetar - Python interface to METAR reports
+python-requests-unixsocket - use requests to talk HTTP via a UNIX domain socket - Python 2.7
+python3-requests-unixsocket - Use requests to talk HTTP via a UNIX domain socket - Python 3.x
+python-requestsexceptions - import exceptions from bundled packages in requests. - Python 2.7
+python3-requestsexceptions - import exceptions from bundled packages in requests. - Python 3.x
+python-restkit - Restkit is an HTTP resource kit for Python
+python-sigmavirus24-urltemplate - Simple Python library to deal with URI Templates - Python 2.x
+python3-sigmavirus24-urltemplate - Simple Python library to deal with URI Templates - Python 3.x
+python-uritools - RFC 3986 compliant replacement for urlparse (Python 2)
+python3-uritools - RFC 3986 compliant replacement for urlparse (Python 3)
+python-urllib3 - HTTP library with thread-safe connection pooling for Python
+python3-urllib3 - HTTP library with thread-safe connection pooling for Python3
+python-urlobject - utility class for manipulating URLs.
+python3-urlobject - utility class for manipulating URLs.
+python-w3lib - Collection of web-related functions for Python 2
+python3-w3lib - Collection of web-related functions for Python 3
+qbzr - Graphical interface for Bazaar using the Qt toolkit
+qterm - BBS client for X Window System written in Qt
+r-cran-class - GNU R package for classification
+r-cran-curl - GNU R modern and flexible web client for R
+r-cran-erm - GNU R package for 'extended Rasch modelling'
+r-cran-httr - GNU R tools for working with URLs and HTTP
+r-cran-mass - GNU R package of Venables and Ripley's MASS
+r-cran-nnet - GNU R package for feed-forward neural networks
+r-cran-rcurl - GNU R General network (HTTP/FTP/...) client interface
+r-cran-rjson - GNU R package for converting between R and JSON objects
+r-cran-spatial - GNU R package for spatial statistics
+r-cran-xml - GNU R package for XML parsing and generation
+regionset - view and modify the region code of DVD drives
+renameutils - Programs to make file renaming easier
+python-requests - elegant and simple HTTP library for Python2, built for human beings
+python3-requests - elegant and simple HTTP library for Python3, built for human beings
+python-awsauth - AWS authentication for Amazon S3 for the python-requests module
+python3-awsauth - AWS authentication for Amazon S3 for the python3-requests module
+python-ricky - tool for rebuilding packages using the Debile infrastructure
+roffit - convert nroff manual pages into HTML
+libresource-retriever-dev - Robot OS resource_retriever library - development files
+libresource-retriever0d - Robot OS resource_retriever library
+python-resource-retriever - Robot OS resource_retriever library - Python
+python-routes - Routing Recognition and Generation Tools
+python3-routes - Routing Recognition and Generation Tools for Python 3
+r-cran-rpart - GNU R package for recursive partitioning and regression trees
+python-rpy - Python interface to the GNU R language and environment
+python-rpy-doc - Python interface to the GNU R language (documentation package)
+r-cran-rserve - GNU R Rserve tcp/ip server and sample clients
+librtmp-dev - toolkit for RTMP streams (development files)
+librtmp1 - toolkit for RTMP streams (shared library)
+rtmpdump - small dumper for media content streamed over the RTMP protocol
+rtorrent - ncurses BitTorrent client based on LibTorrent from rakshasa
+ruby-appraiser - simple rubygems subcommand for Gemfile
+ruby-clockwork - scheduler process to replace cron
+ruby-curb - Ruby libcurl bindings
+ruby-eb - EB library interface for the Ruby
+ruby-ethon - libcurl wrapper using ffi
+ruby-fuzzyurl - non-strict parsing, construction, and wildcard-matching of URLs
+ruby-http-form-data - utility-belt to build form data request bodies
+ruby-mail-room - Forward mail from gmail IMAP to a callback URL or job worker, simply
+ruby-oembed - oEmbed for Ruby
+ruby-open-graph-reader - OpenGraph protocol parser
+ruby-pathname2 - alternate implementation of the Pathname class
+ruby-roadie - library for composing HTML email
+ruby-sanitize - whitelist-based HTML sanitizer
+ruby-stringex - Some useful extensions to Ruby's String class
+ruby-twitter-text - library that does auto linking and extraction items in tweets
+ruby-typhoeus - parallel HTTP library on top of ethon
+ruby-url-safe-base64 - converteri for strings that contains only url-safe characters
+ruby-validate-url - Library for validating urls in Rails
+ruby-xmlparser - Ruby interface for the expat XML parser toolkit
+libstd-rust-1.14 - Rust standard libraries
+libstd-rust-dev - Rust standard libraries - development files
+rust-doc - Rust systems programming language - Documentation
+rust-gdb - Rust debugger (gdb)
+rust-lldb - Rust debugger (lldb)
+rustc - Rust systems programming language
+s3curl - Easily interact with AWS S3 HTTP services
+sac - Login accounting
+selektor - Tor exit node selector and traffic router
+python-shortuuid - generates concise, unambiguous, URL-safe UUIDs
+python3-shortuuid - generates concise, unambiguous, URL-safe UUIDs for Python3
+shutdown-at-night - System to shut down clients at night, and wake them in the morning
+siege - HTTP regression testing and benchmarking utility
+slang-curl - transfer files using HTTP and FTP from S-Lang
+python-smartypants - smart-quotes plugin for pyblosxom
+python3-smartypants - smart-quotes plugin for pyblosxom (Python 3 version)
+snarf - command-line URL grabber
+xul-ext-sogo-connector - transforms Icedove / Thunderbird into a full DAV client for groupware servers
+solarwolf - Collect the boxes and don't become mad
+libsprng2 - SPRNG Scalable Parallel RNG library -- library package
+libsprng2-dev - SPRNG Scalable Parallel RNG library -- development package
+libsprng2-doc - SPRNG Scalable Parallel RNG library -- documentation package
+squidclient - Full featured Web Proxy cache (HTTP proxy) - control utility
+libmodpbase64-0 - collection of high performance c-string transformations
+libmodpbase64-dev - collection of high performance c-string transformations (development files)
+libstrongswan-extra-plugins - strongSwan utility and crypto library (extra plugins)
+sugarplum - automated and intelligent spam trap/cache-poisoner
+surfraw-extra - extra surfraw search tools with heavy dependencies
+php-symfony-asset - manage asset URLs
+systemd-cron - systemd units to provide cron daemon & anacron functionality
+tclcurl - Tcl bindings to libcurl
+tcl-vfs - Exposes Tcl's virtual filesystem C API to the Tcl script level
+tessa - simulation of 3D optical systems with the FDTD method
+tessa-mpi - simulation of 3D optical systems using FDTD on MPI clusters
+texlive-latex-base - TeX Live: LaTeX fundamental packages
+texlive-bibtex-extra - TeX Live: BibTeX additional styles
+texlive-latex-extra - TeX Live: LaTeX additional packages
+texlive-lang-european - TeX Live: Other European languages
+themole - automatic SQL injection exploitation tool
+tnftp - enhanced ftp client
+python-turbogears2 - Python web application framework
+twittering-mode - Twitter client for Emacs
+ubuntu-dev-tools - useful tools for Ubuntu developers
+uget - easy-to-use download manager written in GTK+
+python-urlgrabber - high-level URL transfer library
+urlscan - Extract and browse the URLs contained in an email (urlview replacement)
+urlview - Extracts URLs from text
+urlwatch - tool for monitoring webpages for updates
+uwsgi-infrastructure-plugins - infrastructure plugins for uWSGI
+uwsgi-plugin-alarm-curl - cURL alarm plugin for uWSGI
+uwsgi-plugin-curl-cron - cron cURL plugin for uWSGI
+uzbl - Lightweight Webkit browser following the UNIX philosophy
+vagrant-mutate - convert vagrant boxes to work with different providers
+libjs-validator - Javascript string validation and sanitization for browsers
+node-validator - Javascript string validation and sanitization for Node.js
+varnish - state of the art, high-performance web accelerator
+vcheck - Utility to check and download the most recent program version
+python-vcr - record and replay HTML interactions (Python library)
+python-vcr-doc - record and replay HTML interactions (Documentation)
+python3-vcr - record and replay HTML interactions (Python3 library)
+w3c-markup-validator - W3C Markup Validator
+w3m - WWW browsable pager with excellent tables/frames support
+webalizer - web server log analysis program
+webdis - simple web server providing an HTTP interface to Redis
+wikipedia2text - displays Wikipedia articles on the command line
+wkhtmltopdf - Command line utilities to convert html to pdf or image using WebKit
+wkhtmltopdf-dbg - Command line utilities to convert html to pdf or image - debugging symbols
+wmf - Web Mail Folder
+wmget - Background download manager in a Window Maker dock app
+wordpress - weblog manager
+wordpress-l10n - weblog manager - language files
+wordpress-theme-twentyfifteen - weblog manager - twentytfifteen theme files
+wordpress-theme-twentyseventeen - weblog manager - twentyseventeen theme files
+wordpress-theme-twentysixteen - weblog manager - twentysixteen theme files
+x11proto-bigreqs-dev - X11 Big Requests extension wire protocol
+x11proto-composite-dev - X11 Composite extension wire protocol
+x11proto-core-dev - X11 core wire protocol and auxiliary headers
+x11proto-damage-dev - X11 Damage extension wire protocol
+x11proto-dmx-dev - X11 Distributed Multihead X extension wire protocol
+x11proto-dri2-dev - X11 DRI2 extension wire protocol
+x11proto-dri3-dev - X11 DRI3 extension wire protocol
+x11proto-fixes-dev - X11 Fixes extension wire protocol
+x11proto-fonts-dev - X11 font extension wire protocol
+x11proto-gl-dev - X11 OpenGL extension wire protocol
+x11proto-input-dev - X11 Input extension wire protocol
+x11proto-kb-dev - X11 XKB extension wire protocol
+x11proto-present-dev - X11 Present extension wire protocol
+x11proto-print-dev - X11 Printing extension (Xprint) wire protocol
+x11proto-randr-dev - X11 RandR extension wire protocol
+x11proto-record-dev - X11 Record extension wire protocol
+x11proto-render-dev - X11 Render extension wire protocol
+x11proto-resource-dev - X11 Resource extension wire protocol
+x11proto-scrnsaver-dev - X11 Screen Saver extension wire protocol
+x11proto-video-dev - X11 Video extension wire protocol
+x11proto-xcmisc-dev - X11 XC-Miscellaneous extension wire protocol
+x11proto-xext-dev - X11 various extension wire protocol
+x11proto-xf86bigfont-dev - X11 Big Fonts extension wire protocol
+x11proto-xf86dga-dev - X11 Direct Graphics Access extension wire protocol
+x11proto-xf86dri-dev - X11 DRI extension wire protocol
+x11proto-xf86vidmode-dev - X11 Video Mode extension wire protocol
+x11proto-xinerama-dev - X11 Xinerama extension wire protocol
+xdot - interactive viewer for Graphviz dot files
+xfce4-equake-plugin - Xfce panel plugin which monitors earthquakes
+xfce4-smartbookmark-plugin - search the web via the Xfce4 panel
+xmlstarlet - command line XML toolkit
+xmms2-plugin-curl - XMMS2 - curl transport for HTTP
+xdmx - distributed multihead X server
+xdmx-tools - Distributed Multihead X tools
+xnest - Nested X server
+xserver-xephyr - nested X server
+xserver-xorg-core - Xorg X server - core server
+xserver-xorg-dev - Xorg X server - development files
+xvfb - Virtual Framebuffer 'fake' X server
+xsddiagram - XML Schema Definition (XSD) diagram viewer
+xserver-xorg-input-aiptek - X.Org X server -- Aiptek input driver
+xserver-xorg-input-elographics - X.Org X server -- ELOGraphics input driver
+xserver-xorg-input-joystick - X.Org X server -- joystick input driver
+xserver-xorg-input-joystick-dev - X.Org X server -- joystick input driver (development headers)
+xserver-xorg-input-kbd - X.Org X server -- keyboard input driver
+xserver-xorg-input-mouse - X.Org X server -- mouse input driver
+xserver-xorg-input-mutouch - X.Org X server -- muTouch input driver
+xserver-xorg-input-void - X.Org X server -- void input driver
+xserver-xorg-video-amdgpu - X.Org X server -- AMDGPU display driver
+xserver-xorg-video-ati - X.Org X server -- AMD/ATI display driver wrapper
+xserver-xorg-video-radeon - X.Org X server -- AMD/ATI Radeon display driver
+xserver-xorg-video-cirrus - X.Org X server -- Cirrus display driver
+xserver-xorg-video-dummy - X.Org X server -- dummy display driver
+xserver-xorg-video-fbdev - X.Org X server -- fbdev display driver
+xserver-xorg-video-glide - X.Org X server -- Glide display driver
+xserver-xorg-video-mach64 - X.Org X server -- ATI Mach64 display driver
+xserver-xorg-video-neomagic - X.Org X server -- Neomagic display driver
+xserver-xorg-video-qxl - X.Org X server -- QXL display driver
+xserver-xorg-video-vesa - X.Org X server -- VESA display driver
+xserver-xorg-video-vmware - X.Org X server -- VMware display driver
+xtrans-dev - X transport library (development files)
+python3-yarl - yet another URL library for Python
+erlang-yapp - Erlang application for deploying Yaws webserver applications
+yaws-yapp - Provides an easy way to deploy applications for Yaws webserver
+youtube-dl - downloader of videos from YouTube and other sites
+python-zope.traversing - Resolving paths in the object hierarchy
+zurl - HTTP client worker with ZeroMQ interface
+biomaj-watcher - biological data-bank updater - web interface
+onionshare - Share a file over Tor Hidden Services anonymously and securely
+zfs-auto-snapshot - ZFS automatic snapshot service
+fex - web service for transferring very large files
+fex-utils - web service for transferring very large files (utils)
+org-mode-doc - keep notes, maintain ToDo lists, and do project planning in emacs
+glosstex - prepare glossaries and lists of acronyms
+libopsin-java - Chemical name to structure converter
+libopsin-java-doc - Chemical name to structure converter (documentation)
+rubber - automated system for building LaTeX documents
+suitename - categorize each suite in an RNA backbone
+texlive-latex-extra - TeX Live: LaTeX additional packages
+etoolbox - TeX Live: transitional dummy package
+texlive-latex-extra - TeX Live: LaTeX additional packages
+texlive-lang-german - TeX Live: German
+arch-test - detect architectures supported by your machine/kernel
+blockfinder - enumerates network information for countries
+cl-cffi - The Common Foreign Function Interface for Common Lisp
+dnsrecon - Powerful DNS enumeration script
+dublin-traceroute - NAT-aware multipath tracerouting tool
+libdublintraceroute-dev - NAT-aware multipath tracerouting tool (dev)
+libdublintraceroute0 - NAT-aware multipath tracerouting tool (library)
+enum - seq- and jot-like enumerator
+libenumerate-camlp4-dev - OCaml quotation expanders for enumerating finite types
+flashproxy-client - Pluggable transport to circumvent IP address blocking - client transport plugin
+flashproxy-common - Pluggable transport to circumvent IP address blocking - common library
+flashproxy-facilitator - Pluggable transport to circumvent IP address blocking - facilitator
+flashproxy-proxy - Pluggable transport to circumvent IP address blocking - browser proxy
+node-flashproxy - Pluggable transport to circumvent IP address blocking - nodejs proxy
+gf-complete-tools - Galois Field Arithmetic - tools
+libgf-complete-dev - Galois Field Arithmetic - development files
+libgf-complete1 - Galois Field Arithmetic - shared library
+libghc-enumerator-dev - high-performance left-fold enumerators
+libghc-enumerator-doc - high-performance left-fold enumerators; documentation
+libghc-enumerator-prof - high-performance left-fold enumerators; profiling libraries
+libghc-tagstream-conduit-dev - streamlined HTML tag parser
+libghc-tagstream-conduit-doc - streamlined HTML tag parser; documentation
+libghc-tagstream-conduit-prof - streamlined HTML tag parser; profiling libraries
+ideviceinstaller - Utility to manage installed applications on an iDevice
+ideviceinstaller-dbg - Utility to manage installed applications on an iDevice - debug
+javamorph - Java morphing film-make program for pixel picture-input
+knockpy - Python tool designed to enumerate subdomains on a target domain
+lcrack - A generic password cracker
+libarchive-zip-perl - Perl module for manipulation of ZIP archives
+libchemistry-formula-perl - enumerate elements in a chemical formula
+libcommons-lang-java - Commons Lang - an extension of the java.lang package
+libcommons-lang-java-doc - Documentation for Commons Lang - an extension of the java.lang package
+libguestfs0 - guest disk image management system - shared library
+liblur-dev - Logitech Unifying Receiver access library - dev files
+liblur3 - Logitech Unifying Receiver access library
+libratbag-tools - configuration tools for gaming mice
+seccomp - helper tools for high level interface to Linux seccomp filter
+libtasn1-6 - Manage ASN.1 structures (runtime)
+libtasn1-6-dev - Manage ASN.1 structures (development)
+libtasn1-bin - Manage ASN.1 structures (binaries)
+libtasn1-doc - Manage ASN.1 structures (documentation)
+liblrsgmp-dev - package to enumerate vertices and extreme rays (development file)
+liblrsgmp0 - package to enumerate vertices and extreme rays (shared libraries)
+lrslib - package to enumerate vertices and extreme rays of a convex polyhedron
+liblvm2app2.2 - LVM2 application library
+python-lvm2 - LVM2 application library - Python 2 binding
+python3-lvm2 - LVM2 application library - Python 3 binding
+maskprocessor - high-performance word generator with a per-position configurable charset
+opencfu - count cell colonies (CFUs) on agar plates by processing digital pictures
+libp11-kit-dev - library for loading and coordinating access to PKCS#11 modules - development
+libp11-kit0 - library for loading and coordinating access to PKCS#11 modules - runtime
+p11-kit - p11-glue utilities
+p11-kit-modules - p11-glue proxy and trust modules
+patator - Multi-purpose brute-forcer
+phpunit-object-enumerator - enumerate all referenced objects - PHPUnit component
+librtaudio5a - C++ library for realtime audio input/ouput
+ruby-enumerize - enumerated attributes with internationalisation
+ruby-rgfa - parse, edit and write GFA format graphs in Ruby
+python-sip-dev - Python/C++ bindings generator development files
+python-sip-doc - Python/C++ bindings generator documentation
+python3-sip-dev - Python 3/C++ bindings generator development files
+sip-dbg - Debug symbols for Python/C++ bindings generator application
+sip-dev - Python/C++ bindings generator code generator application
+sqlmap - automatic SQL injection tool
+texlive-latex-extra - TeX Live: LaTeX additional packages
+gir1.2-upowerglib-1.0 - GObject introspection data for upower
+libupower-glib-dev - abstraction for power management - development files
+libupower-glib3 - abstraction for power management - shared library
+upower - abstraction for power management
+upower-doc - abstraction for power management - documentation
+vamp-examples - example Vamp plugins, host and RDF generator
+texlive-latex-base - TeX Live: LaTeX fundamental packages
+texlive-latex-extra - TeX Live: LaTeX additional packages
+texlive-lang-arabic - TeX Live: Arabic
+texlive-lang-japanese - TeX Live: Japanese
+lyx - document processor
+texlive-latex-recommended - TeX Live: LaTeX recommended packages
+texlive-latex-extra - TeX Live: LaTeX additional packages
+xcolors - display all X11 color names and colors
+xcolorsel - display colors and names in X
+abacas - Algorithm Based Automatic Contiguation of Assembled Sequences
+libtreelayout-java - Efficient and customizable TreeLayout Algorithm in Java
+aeskeyfind - tool for locating AES keys in a captured memory image
+afl - instrumentation-driven fuzzer for binary formats
+afl-clang - instrumentation-driven fuzzer for binary formats - clang support
+afl-doc - instrumentation-driven fuzzer for binary formats - documentation
+aide - Advanced Intrusion Detection Environment - static binary
+aide-common - Advanced Intrusion Detection Environment - Common files
+aide-dynamic - Advanced Intrusion Detection Environment - dynamic binary
+aide-xen - Advanced Intrusion Detection Environment - static binary for XEN
+alfa - Automated Line Fitting Algorithm
+libalglib-dev - Development files for the alglib library
+libalglib3.10 - Numerical analysis and data processing library
+algobox - algorithmics introduction - French UI
+algol68g - Implementation of Algol 68 as defined by the Revised Report
+algotutor - program for observing the intermediate steps of algorithm
+alt-ergo - Automatic theorem prover dedicated to program verification
+alt-key - tool to help developers improve keyboard accelerators
+android-libetc1 - ETC1 compression library
+android-libetc1-dev - ETC1 compression library - Development files
+apksigner - command line tool to sign and verify Android APKs
+libapksig-java - library to sign and verify Android APKs
+ann-tools - Approximate Nearest Neighbor Searching library (tools)
+libann-dev - Approximate Nearest Neighbor Searching library (development files)
+libann0 - Approximate Nearest Neighbor Searching library
+aolserver4-nssha1 - AOLserver4 module: performs SHA1 hashes Provides a Tcl
+apcalc - Arbitrary precision calculator (original name: calc)
+apcalc-common - Arbitrary precision calculator (common files)
+apg - Automated Password Generator - Standalone version
+aragorn - tRNA and tmRNA detection in nucleotide sequences
+arc - Archive utility based on the MSDOS ARC program
+argyll - Color Management System, calibrator and profiler
+art-nextgen-simulation-tools - simulation tools to generate synthetic next-generation sequencing reads
+art-nextgen-simulation-tools-profiles - profiles for art simulation tools
+ask - Adaptive Sampling Kit for big experimental spaces
+libasm-java - Java bytecode manipulation framework
+libasm-java-doc - Java bytecode manipulation framework (documentation)
+astronomical-almanac - astronomical almanac - calculate planet and star positions
+python-astroscrappy - Optimized Cosmic Ray Annihilation in Python 2
+python3-astroscrappy - Optimized Cosmic Ray Annihilation in Python 3
+aubio-tools - library for audio segmentation -- utilities
+libaubio-dev - library for audio and music analysis, synthesis, and effects
+libaubio-doc - library for audio segmentation -- documentation
+libaubio5 - library for audio segmentation
+python-aubio - python interface for aubio, a library for audio segmentation
+python3-aubio - python interface for aubio, a library for audio segmentation
+axe-demultiplexer - Trie-based DNA sequencing read demultiplexer
+axiom - General purpose computer algebra system: main binary and modules
+axiom-databases - General purpose computer algebra system: generated text databases
+axiom-doc - General purpose computer algebra system: documentation
+axiom-graphics - General purpose computer algebra system: graphics subsystem
+axiom-graphics-data - General purpose computer algebra system: graphics subsystem
+axiom-hypertex - General purpose computer algebra system: hypertex subsystem
+axiom-hypertex-data - General purpose computer algebra system: hypertex subsystem
+axiom-source - General purpose computer algebra system: source files
+axiom-test - General purpose computer algebra system: regression test inputs
+axiom-tex - General purpose computer algebra system: style file for TeX
+babeld - loop-free distance-vector routing protocol
+ballview - free molecular modeling and molecular graphics tool
+libball1.4 - Biochemical Algorithms Library
+libball1.4-data - Biochemical Algorithms Library (data files)
+libball1.4-dev - Header files for the Biochemical Algorithms Library
+libball1.4-doc - documentation for the BALL library
+libballview1.4 - Biochemical Algorithms Library, VIEW framework
+libballview1.4-dev - Header files for the VIEW part of the Biochemical Algorithms Library
+python-ball - Python bindings for the Biochemical Algorithms Library
+python-ballview - Python bindings for VIEW-parts of the Biochemical Algorithms Library
+bart - tools for computational magnetic resonance imaging
+bastet - ncurses Tetris clone with a bastard algorithm
+batmand - better approach to mobile adhoc networking
+bcrypt - Cross platform file encryption utility using blowfish (Decrypt only)
+beagle - Genotype calling, genotype phasing and imputation of ungenotyped markers
+beagle-doc - Documentation for Beagle
+berkeley-abc - ABC - A System for Sequential Synthesis and Verification
+berkeley-express - Streaming quantification for high-throughput sequencing
+berkeley-express-doc - Documentation for RNA-Seq tool eXpress
+bio-eagle - Haplotype phasing within a genotyped cohort or using a phased reference panel
+bio-eagle-examples - Examples for bio-eagle
+libbiojava1.7-java - Java API to biological data and applications (version 1.7)
+libbiojava4.0-java - Java API to biological data and applications (version 4)
+bliss - tool to compute graph automorphisms and labelings -- bin
+bliss-doc - suite to compute graph automorphisms and labelings -- doc
+libbliss-dev - development files to compute graph automorphisms and labelings -- libdev
+libbliss-dev-common - development files to compute graph automorphisms and labelings -- headers
+libbliss2 - library to compute graph automorphisms and labelings
+bmagic - C++ template library for efficient platform independent bitsets
+libboilerpipe-java - Boilerplate removal and fulltext extraction from HTML pages
+boolstuff-dev - library for operating on boolean expression binary trees - devel
+libboost-graph-dev - generic graph components and algorithms in C++ (default version)
+libboost-graph-parallel-dev - generic graph components and algorithms in C++ (default version)
+libboost-mpi-dev - C++ interface to the Message Passing Interface (MPI) (default version)
+libboost-mpi-python-dev - C++ interface to the Message Passing Interface (MPI), Python Bindings (default version)
+libboost-graph-parallel1.62-dev - generic graph components and algorithms in C++
+libboost-graph-parallel1.62.0 - generic graph components and algorithms in C++
+libboost-graph1.62-dev - generic graph components and algorithms in C++
+libboost-graph1.62.0 - generic graph components and algorithms in C++
+libboost-mpi-python1.62-dev - C++ interface to the Message Passing Interface (MPI), Python Bindings
+libboost-mpi-python1.62.0 - C++ interface to the Message Passing Interface (MPI), Python Bindings
+libboost-mpi1.62-dev - C++ interface to the Message Passing Interface (MPI)
+libboost-mpi1.62.0 - C++ interface to the Message Passing Interface (MPI)
+booth - The Booth Cluster Ticket Manager
+booth-pacemaker - Resource agents to integrate booth with Pacemaker
+botan1.10-dbg - multiplatform crypto library (debug)
+libbotan-1.10-1 - multiplatform crypto library
+libbotan1.10-dev - multiplatform crypto library (development)
+libbcmail-java - Bouncy Castle generators/processors for S/MIME and CMS
+libbcmail-java-doc - Bouncy Castle generators/processors for S/MIME and CMS (Documentation)
+libbcpg-java - Bouncy Castle generators/processors for OpenPGP
+libbcpg-java-doc - Bouncy Castle generators/processors for OpenPGP (Documentation)
+libbcpkix-java - Bouncy Castle Java API for PKIX, CMS, EAC, TSP, PKCS, OCSP, CMP, and CRMF
+libbcpkix-java-doc - Bouncy Castle Java API for PKIX, CMS, EAC, TSP, PKCS... (Documentation)
+libbcprov-java - Bouncy Castle Java Cryptographic Service Provider
+libbcprov-java-doc - Bouncy Castle Java Cryptographic Service Provider (Documentation)
+bpm-tools - command-line tool to calculate tempo of audio
+brotli - lossless compression algorithm and format (command line utility)
+python-brotli - lossless compression algorithm and format (Python 2 version)
+python3-brotli - lossless compression algorithm and format (Python 3 version)
+brutefir - software convolution engine
+libhacd2.83.7 - professional 3D Game Multiphysics Library -- HACD
+bwa - Burrows-Wheeler Aligner
+libbwa-dev - Burrows-Wheeler Aligner source files
+bzip2 - high-quality block-sorting file compressor - utilities
+libbz2-1.0 - high-quality block-sorting file compressor library - runtime
+libbz2-dev - high-quality block-sorting file compressor library - development
+camitk-imp - workbench application for the CamiTK library
+libbz2-ocaml - OCaml bindings for the bzip2 compression library
+libbz2-ocaml-dev - OCaml bindings for the bzip2 compression library
+libcassie1v5 - library implementating search algorithms
+cclib - Parsers and algorithms for computational chemistry
+python-cclib - Parsers and algorithms for computational chemistry (Python module)
+python3-cclib - Parsers and algorithms for computational chemistry (Python3 module)
+ccrypt - secure encryption and decryption of files and streams
+libbox-dev - Boxlib: C++ Block-structured finite difference algorithms library
+libcdk-java - Chemistry Development Kit (CDK) Java libraries
+cellwriter - grid-entry handwriting input panel
+libcgal-demo - C++ library for computational geometry (demos)
+libcgal-dev - C++ library for computational geometry (development files)
+libcgal-ipelets - C++ library for computational geometry (ipelets)
+libcgal-qt5-12 - C++ library for computational geometry (support for Qt5)
+libcgal-qt5-dev - C++ library for computational geometry (development files, support for Qt5)
+libcgal12 - C++ library for computational geometry
+libcharls-dev - Implementation of the JPEG-LS standard (development libraries)
+libcharls1 - Implementation of the JPEG-LS standard
+cimg-dev - powerful image processing library
+cimg-doc - documentation of cimg-dev imaging library
+cimg-examples - examples for cimg-dev imaging library
+cl-babel - A charset encoding/decoding library, not unlike GNU libiconv
+cl-graph - simple graph data structure and algorithms
+clasp - conflict-driven nogood learning answer set solver
+clearcut - extremely efficient phylogenetic tree reconstruction
+libcln-dev - Development library for Class Library for Numbers (c++)
+libcln6 - Class Library for Numbers (C++)
+clzip - C, lossless data compressor based on the LZMA algorithm
+clzip-dbg - C, lossless data compressor based on the LZMA algorithm (debug)
+cminpack-doc - Nonlinear equations and nonlinear least squares problems (doc)
+libcminpack-dev - Nonlinear equations and nonlinear least squares problems - development
+libcminpack1 - Nonlinear equations and nonlinear least squares problems - runtime
+codegroup - Convert any file, including binary, into 5 letter code
+codeville - a distributed version control system
+ncoils - coiled coil secondary structure prediction
+coinor-csdp - A software package for semidefinite programming
+coinor-csdp-dbg - A software package for semidefinite programming
+coinor-csdp-doc - A software package for semidefinite programming
+coinor-libdylp-dev - Linear programming solver using of the dynamic simplex algorithm
+coinor-libdylp-doc - Linear programming solver using of the dynamic simplex algorithm
+coinor-libdylp0 - Linear programming solver using the dynamic simplex algorithm
+coinor-libdylp0-dbg - Linear programming solver using of the dynamic simplex algorithm
+coinor-libvol-dev - Coin-or linear programming solver
+coinor-libvol-doc - Coin-or linear programming solver
+coinor-libvol0 - Coin-or linear programming solver
+coinor-libvol0-dbg - Coin-or linear programming solver
+libcolpack-dev - Specialized graph vertex coloring library, development files
+libcolpack0v5 - Specialized graph vertex coloring library, shared library
+concalc - console calculator
+libconsensuscore-dev - algorithms for PacBio multiple sequence consensus -- development files
+python-pbconsensuscore - algorithms for PacBio multiple sequence consensus -- Python 2
+python3-pbconsensuscore - algorithms for PacBio multiple sequence consensus -- Python 3
+context-modules - additional ConTeXt modules
+libcore-cache-clojure - cache abstraction library for Clojure
+libcourier-unicode-dev - Courier Unicode library (development files and headers)
+libcourier-unicode1 - Courier Unicode library (shared runtime library)
+cp2k - Ab Initio Molecular Dynamics
+libcpldrs26 - CPL higher level data processing algorithms
+cppad - Automatic Differentiation (AD) of C++ algorithms
+cqrlog - Advanced logging program for hamradio operators
+libcryptgps-ocaml-dev - OCaml implementation of symmetric cryptographic algorithms: Blowfish, DES, 3DES
+libjs-cryptojs - collection of cryptographic algorithms implemented in JavaScript
+libcryptokit-ocaml - cryptographic algorithm library for OCaml - runtime
+libcryptokit-ocaml-dev - cryptographic algorithm library for OCaml - development
+libcsoundac-dev - development files for CsoundAC
+libcsoundac6.0v5 - Csound Algorithmic Composition library
+python-csoundac - Python bindings for CsoundAC
+cssmin - YUI CSS compression algorithm (command line tools)
+python-cssmin - YUI CSS compression algorithm (Python 2 version)
+python3-cssmin - YUI CSS compression algorithm (Python 3 version)
+cstocs - Recoding utility and Czech sorter
+csync2 - cluster synchronization tool
+cutemaze - single player maze game
+wminput - Userspace driver for the wiimote
+dact - multi-algorithm compression
+darts - C++ Template Library for implementation of Double-Array
+dasher - graphical predictive text input system
+libdeal.ii-8.4.2 - Finite Element Differential Equations Analysis Library
+libdeal.ii-dev - Differential Equations Analysis Library - development files
+libdeal.ii-doc - Differential Equations Analysis Library - html doc. and examples
+deap-doc - Distributed Evolutionary Algorithms in Python (docs)
+python-deap - Distributed Evolutionary Algorithms in Python
+python3-deap - Distributed Evolutionary Algorithms in Python3
+depqbf - solver for quantified boolean formulae
+dialign-tx - Segment-based multiple sequence alignment
+dialign-tx-data - Segment-based multiple sequence alignment (data files)
+dictzip - compression utility for dictionary databases
+libjs-diff-match-patch - diff/match/patch algorithms implemented in JavaScript
+libdose3-ocaml - OCaml libraries for package dependencies (runtime files)
+libdose3-ocaml-dev - OCaml libraries for package dependencies (development files)
+dsdp - Software for Semidefinite Programming
+dsdp-doc - Software for Semidefinite Programming
+libdsdp-5.8gf - Software for Semidefinite Programming
+libdsdp-dev - Software for Semidefinite Programming
+dsh - dancer's shell, or distributed shell
+dynalogin-client-php - two-factor HOTP/TOTP authentication - PHP client
+dynalogin-server - two-factor HOTP/TOTP authentication - server daemon
+libdynalogin-1-0 - two-factor HOTP/TOTP authentication - implementation libs
+libdynaloginclient-1-0 - two-factor HOTP/TOTP authentication - implementation libs
+libpam-dynalogin - two-factor HOTP/TOTP authentication - implementation libs
+simpleid-store-dynalogin - two-factor HOTP/TOTP authentication - OpenID provider
+ecasound - multitrack-capable audio recorder and effect processor
+ecasound-doc - documentation files for Ecasound
+ecasound-el - multitrack-capable audio recorder and effect processor (emacs)
+ecatools - multitrack-capable audio recorder and effect processor (tools)
+libecasoundc-dev - multitrack-capable audio recorder and effect processor (C dev library)
+libecasoundc1v5 - multitrack-capable audio recorder and effect processor (C library)
+python-ecasound - multitrack-capable audio recorder and effect processor (Python bindings)
+ruby-ecasound - multitrack-capable audio recorder and effect processor (ruby bindings)
+libplanarity-dev - Library of planarity-related graph algorithms (devel files)
+libplanarity0 - Library of planarity-related graph algorithms
+planarity - Program for planarity-related graph algorithms
+python-egenix-mxtexttools - fast text processing tools for Python
+python-egenix-mxtexttools-doc - fast text processing tools for Python (documentation)
+elastix - toolbox for rigid and nonrigid registration of images
+elastix-doc - toolbox for rigid and nonrigid registration of images - docs
+elki - Data mining algorithm development framework
+elki-dev - Data mining algorithm development framework - development files
+emboss-lib - EMBOSS Libraries
+enfuse - image exposure blending tool
+ent - pseudorandom number sequence test program
+libepr-api-dev - ENVISAT Product Reader API for C - Development files
+libepr-api2 - ENVISAT Product Reader API for C
+libepr-api2-dev - ENVISAT Product Reader API for C - Transitional package
+liberfa-dev - Essential Routines for Fundamental Astronomy (development files)
+liberfa1 - Essential Routines for Fundamental Astronomy
+eso-pipelines - ESO VLT Instrument pipeline collection
+esorex - Execution Tool for European Southern Observatory pipelines
+euler - interactive mathematical programming environment
+libexiv2-14 - EXIF/IPTC/XMP metadata manipulation library
+facedetect - simple face detector for batch processing
+fact++ - description logic reasoner for the semantic web
+fastjet-doc - Documentation of FastJet
+fastjet-examples - Example source files of FastJet
+libfastjet-dev - Development files of FastJet
+libfastjet-fortran-dev - Fortran bindings of FastJet - development files
+libfastjet-fortran0 - Fortran bindings of FastJet
+libfastjet0v5 - Fast C++ code for the kt and other jet algorithms
+libfastjetplugins-dev - FastJet plugins - development files
+libfastjetplugins0 - FastJet plugins
+libfastjettools-dev - Tools for FastJet - development files
+libfastjettools0 - Tools for FastJet
+fastml - maximum likelihood ancestral amino-acid sequence reconstruction
+fcitx-libpinyin - Fcitx wrapper for libpinyin
+fcitx-zhuyin - Fcitx wrapper for Zhuyin library
+fet-data - timetable generator - documentation and examples
+libswresample-dev - FFmpeg library for audio resampling, rematrixing etc. - development files
+libswresample2 - FFmpeg library for audio resampling, rematrixing etc. - runtime files
+libswscale-dev - FFmpeg library for image scaling and various conversions - development files
+libswscale4 - FFmpeg library for image scaling and various conversions - runtime files
+fhist - File history, comparison and merge utilities
+fitgcp - fitting genome coverage distributions with mixture models
+flam3 - render and animate FLAM3s and manipulate their genomes
+flann-doc - Fast Library for Approximate Nearest Neighbors - documentation
+libflann-dev - Fast Library for Approximate Nearest Neighbors - development
+libflann1.9 - Fast Library for Approximate Nearest Neighbors - runtime
+python-flask-bcrypt - Python 2 flask extension that provides bcrypt hashing utilities
+python-flask-bcrypt-doc - Flask extension that provides bcrypt hashing utilities (doc)
+python3-flask-bcrypt - Python 3 flask extension that provides bcrypt hashing utilities
+flowgrind - Distributed network performance measurement tool
+python-flufl.lock - NFS-safe file-based lock with timeouts (Python 2)
+python-flufl.lock-doc - NFS-safe file-based lock with timeouts (common documentation)
+python3-flufl.lock - NFS-safe file-based lock with timeouts (Python 3)
+elpa-flx - sorting algorithm for fuzzy matching in Emacs
+elpa-flx-ido - allows Emacs Ido to use the flx sorting algorithm
+fplll-tools - Tools to compute LLL-reduction of Euclidian lattices
+libfplll-dev - Library for LLL-reduction of Euclidean lattices, development
+libfplll2 - Library for LLL-reduction of Euclidean lattices, runtime
+fractalnow - Fast, advanced fractal generator
+fraqtive - draws Mandelbrot and Julia fractals
+fraqtive-dbg - draws Mandelbrot and Julia fractals (debugging symbols)
+freefem++ - Provides the binaries of the FreeFem++ FE suite
+freefem++-doc - Provides the documentation of the FreeFem++ FE suite
+libfreefem++ - Provides the shared libraries of the FreeFem++ FE suite
+libfreefem++-dev - Provides the development files of the FreeFem++ FE suite
+libfribidi-bin - Free Implementation of the Unicode BiDi algorithm (utility)
+libfribidi-dev - Development files for FreeBidi library
+libfribidi0 - Free Implementation of the Unicode BiDi algorithm
+fsa - Fast Statistical Alignment of protein, RNA or DNA sequences
+fssync - File system synchronization tool (1-way, over SSH)
+python-funcparserlib - Recursive descent parsing library based on functional combinators
+python3-funcparserlib - Recursive descent parsing library for python3
+gaffitter - File subsets extractor based on genetic algorithms
+libga-dev - C++ Library of Genetic Algorithm Components
+libga2 - C++ Library of Genetic Algorithm Components
+gambas3-gb-compress-bzlib2 - Gambas bzlib2 component
+gambas3-gb-compress-zlib - Gambas zlib compression component
+gambas3-gb-image - Gambas image effects
+python-gamera - framework for building document analysis applications
+gap - computer algebra system for Groups, Algorithms and Programming
+gap-core - GAP computer algebra system, core components
+gap-dev - GAP computer algebra system, compiler and development files
+gap-doc - GAP computer algebra system, documentation
+gap-libs - GAP computer algebra system, essential GAP libraries
+gap-online-help - GAP computer algebra system, online help
+gap-alnuth - GAP Alnuth - Algebraic number theory and an interface to PARI/GP
+gap-atlasrep - GAP AtlasRep - A GAP Interface to the Atlas of Group Representations
+gap-autpgrp - GAP AutPGrp - Computing the Automorphism Group of a p-Group
+gap-character-tables - GAP Library of character tables
+gap-gapdoc - GAPDoc - A Meta Package for GAP Documentation
+gap-grape - GRaph Algorithms using PErmutation groups for GAP
+gap-polycyclic - GAP Polycyclic - Computation with polycyclic groups
+gap-radiroot - GAP RadiRoot - Roots of a Polynomial as Radicals
+gap-table-of-marks - GAP TomLib - The GAP Library of Tables of Marks
+garli - phylogenetic analysis of molecular sequence data using maximum-likelihood
+garli-examples - phylogenetic analysis of molecular sequence data using maximum-likelihood (examples)
+python-genetic - genetic algorithms in Python
+libgmm++-dev - Generic C++ template library for sparse, dense and skyline matrices
+gfan - program for computing with Groebner fans
+gimp-plugin-registry - repository of optional extensions for GIMP
+ginga - Astronomical image viewer
+python-ginga - Astronomical image toolkit for Python 2
+python3-ginga - Astronomical image toolkit for Python 3
+libgl2ps-dev - Lib providing high quality vector output for OpenGL application
+libgl2ps1 - Lib providing high quality vector output for OpenGL application
+glam2 - gapped protein motifs from unaligned sequences
+gimp-gluas - Lua environment plug-in for GIMP
+libeval0 - support library for eleeye
+libeval0-dev - support library for eleeye - development file
+gnuradio - GNU Radio Software Radio Toolkit
+libgnuradio-trellis3.7.10 - gnuradio trellis modulation functions
+gnutls-bin - GNU TLS library - commandline utilities
+gnutls-doc - GNU TLS library - documentation and examples
+libgnutls-dane0 - GNU TLS library - DANE security support
+libgnutls-openssl27 - GNU TLS library - OpenSSL wrapper
+libgnutls28-dev - GNU TLS library - development files
+libgnutls30 - GNU TLS library - main runtime library
+libgnutlsxx28 - GNU TLS library - C++ runtime library
+golang-ed25519-dev - Go implementation of the Ed25519 signature algorithm
+golang-github-bkaradzic-go-lz4-dev - port of the LZ4 lossless compression algorithm to Go
+golang-github-btcsuite-btcd-chaincfg-chainhash-dev - generic hash types and functions for Go
+golang-github-cenkalti-backoff-dev - exponential backoff algorithm in Go
+golang-github-dvsekhvalnov-jose2go-dev - Go implementation of Javascript Object Signing and Encryption
+golang-github-gorhill-cronexpr-dev - cron expression parser
+golang-github-juju-ratelimit-dev - Efficient token-bucket-based rate limiter module for Go
+golang-github-jwilder-encoding-dev - library for working with compressed arrays of integers
+golang-github-kjk-lzma-dev - port of the lzma compression algorithm
+golang-github-kr-binarydist-dev - Go implementation of the bspatch algorithm
+golang-github-pierrec-xxhash-dev - pure Go implementation of xxHash (32 and 64 bits versions)
+golang-github-retailnext-hllpp-dev - HyperLogLog++ cardinality estimation algorithm
+golang-github-tsenart-tb-dev - generic lock-free implementation of the "Token-Bucket" algorithm
+golang-github-vividcortex-ewma-dev - Exponentially Weighted Moving Average algorithms for Go
+golang-golang-x-crypto-dev - Supplementary Go cryptography libraries
+golang-nzaat-dev - Go implementation of the NZAAT hash algorithm
+golly - Game of Life simulator using hashlife algorithm
+libpam-google-authenticator - Two-step verification
+gplanarity - simple puzzle game involving untangling planar graphs
+gpt - G-Portugol is a portuguese structured programming language
+libgportugol-dev - Development files for the G-Portugol library
+libgportugol0 - G-Portugol library
+gr-radar - GNU Radio Radar Toolbox
+gr-radar-doc - GNU Radio Radar Toolbox - Documentation
+libgnuradio-radar3.7.10 - GNU Radio Radar Toolbox - library
+gramofile - transfer sound from gramophone records to CD
+gramophone2 - GRAMophone II is an algorithmic music generator
+groonga-token-filter-stem - Stemming token filter for Groonga
+gubbins - phylogenetic analysis of genome sequences
+guile-library - Library of useful Guile modules
+libgumbo-dev - pure-C HTML5 parser development files
+libgumbo1 - pure-C HTML5 parser
+python-gumbo - pure-C HTML5 parser Python bindings
+python3-gumbo - pure-C HTML5 parser Python 3 bindings
+hashcat - World's fastest and most advanced password recovery utility
+hashcat-data - Data files for hashcat advanced password recovery utility
+libghc-charsetdetect-ae-dev - charset detection using Mozilla's Universal Character Set Detector
+libghc-charsetdetect-ae-doc - charset detection using Mozilla's Universal Character Set Detector; documentation
+libghc-charsetdetect-ae-prof - charset detection using Mozilla's Universal Character Set Detector; profiling libraries
+libghc-crypto-dev - cryptographical algorithms for Haskell
+libghc-crypto-doc - cryptographical algorithms for Haskell; documentation
+libghc-crypto-prof - cryptographical algorithms for Haskell; profiling libraries
+libghc-crypto-api-dev - generic interface for cryptographic operations
+libghc-crypto-api-doc - generic interface for cryptographic operations; documentation
+libghc-crypto-api-prof - generic interface for cryptographic operations; profiling libraries
+libghc-crypto-numbers-dev - cryptographic numbers: functions and algorithms
+libghc-crypto-numbers-doc - cryptographic numbers: functions and algorithms; documentation
+libghc-crypto-numbers-prof - cryptographic numbers: functions and algorithms; profiling libraries
+libghc-crypto-pubkey-types-dev - generic public-key algorithm types
+libghc-crypto-pubkey-types-doc - generic public-key algorithm types; documentation
+libghc-crypto-pubkey-types-prof - generic public-key algorithm types; profiling libraries
+cryptol - domain-specific language of cryptography
+libghc-cryptol-dev - domain-specific language of cryptography
+libghc-cryptol-doc - domain-specific language of cryptography; documentation
+libghc-cryptol-prof - domain-specific language of cryptography; profiling libraries
+libghc-diff-dev - O(ND) diff algorithm library
+libghc-diff-doc - O(ND) diff algorithm library; documentation
+libghc-diff-prof - O(ND) diff algorithm library; profiling libraries
+libghc-edit-distance-dev - Haskell fuzzy matching
+libghc-edit-distance-doc - Haskell fuzzy matching; documentation
+libghc-edit-distance-prof - Haskell fuzzy matching; profiling libraries
+libghc-equivalence-dev - maintaining an equivalence relation
+libghc-equivalence-doc - maintaining an equivalence relation; documentation
+libghc-equivalence-prof - maintaining an equivalence relation; profiling libraries
+libghc-graphscc-dev - Tarjan's algorithm for computing the SCCs of a graph
+libghc-graphscc-doc - Tarjan's algorithm for computing the SCCs of a graph; documentation
+libghc-graphscc-prof - Tarjan's algorithm for computing the SCCs of a graph; profiling libraries
+libghc-hierarchical-clustering-dev - fast algorithms for single, average/UPGMA and complete linkage clustering
+libghc-hierarchical-clustering-doc - fast algorithms for single, average/UPGMA and complete linkage clustering; documentation
+libghc-hierarchical-clustering-prof - fast algorithms for single, average/UPGMA and complete linkage clustering; profiling libraries
+libghc-maths-dev - Combinatorics, group theory, (non-)commutative algebra
+libghc-maths-doc - Combinatorics, group theory, (non-)commutative algebra; documentation
+libghc-maths-prof - Combinatorics, group theory, (non-)commutative algebra; profiling libraries
+libghc-patience-dev - Haskell implementation of the Patience Diff algorithm
+libghc-patience-doc - Haskell implementation of the Patience Diff algorithm; documentation
+libghc-patience-prof - Haskell implementation of the Patience Diff algorithm; profiling libraries
+libghc-presburger-dev - decision procedure for quantifier-free linear arithmetic
+libghc-presburger-doc - decision procedure for quantifier-free linear arithmetic; documentation
+libghc-presburger-prof - decision procedure for quantifier-free linear arithmetic; profiling libraries
+libghc-psqueues-dev - Pure priority search queues
+libghc-psqueues-doc - Pure priority search queues; documentation
+libghc-psqueues-prof - Pure priority search queues; profiling libraries
+libghc-puremd5-dev - implementation of the MD5 digest (hash) algorithm
+libghc-puremd5-doc - implementation of the MD5 digest (hash) algorithm; documentation
+libghc-puremd5-prof - implementation of the MD5 digest (hash) algorithm; profiling libraries
+libghc-rsa-dev - implementation of RSA, using the padding schemes of PKCS#1 v2.1.
+libghc-rsa-doc - implementation of RSA, using padding schemes of PKCS#1 v2.1.; documentation
+libghc-rsa-prof - implementation of RSA, using padding schemes of PKCS#1; profiling libraries
+libghc-statistics-dev - A library of statistical types, data, and functions
+libghc-statistics-doc - A library of statistical types, data, and functions; documentation
+libghc-statistics-prof - A library of statistical types, data, and functions; profiling libraries
+libghc-stringprep-dev - Implements the "StringPrep" algorithm
+libghc-stringprep-doc - Implements the "StringPrep" algorithm; documentation
+libghc-stringprep-prof - Implements the "StringPrep" algorithm; profiling libraries
+libghc-token-bucket-dev - Haskell implementation of leaky bucket rate limiting
+libghc-token-bucket-doc - Haskell implementation of leaky bucket rate limiting; documentation
+libghc-token-bucket-prof - Haskell implementation of leaky bucket rate limiting; profiling libraries
+libghc-uulib-dev - parser and pretty print combinator library for GHC
+libghc-uulib-doc - parser and pretty print combinator library for GHC; documentation
+libghc-uulib-prof - parser and pretty print combinator library for GHC; profiling libraries
+libghc-vector-algorithms-dev - efficient algorithms for vector arrays
+libghc-vector-algorithms-doc - efficient algorithms for vector arrays; documentation
+libghc-vector-algorithms-prof - efficient algorithms for vector arrays; profiling libraries
+libghc-xmlhtml-dev - XML parser and renderer with HTML 5 quirks mode
+libghc-xmlhtml-doc - XML parser and renderer with HTML 5 quirks mode; documentation
+libghc-xmlhtml-prof - XML parser and renderer with HTML 5 quirks mode; profiling libraries
+haveged - Linux entropy source using the HAVEGE algorithm
+libhavege-dev - entropy source using the HAVEGE algorithm - development files
+libhavege1 - entropy source using the HAVEGE algorithm - shared library
+libhavege1-dbg - entropy source using the HAVEGE algorithm - debug symbols
+herisvm - machine learning tools for classification algorithms
+htdig - web search and indexing system - binaries
+python-html5lib - HTML parser/tokenizer based on the WHATWG HTML5 specification
+python3-html5lib - HTML parser/tokenizer based on the WHATWG HTML5 specification
+hugin-tools - panorama photo stitcher - commandline tools
+hunspell - spell checker and morphological analyzer (program)
+hunspell-tools - tools for hunspell
+libhunspell-1.4-0 - spell checker and morphological analyzer (shared library)
+libhunspell-dev - spell checker and morphological analyzer (development)
+hydroffice.bag-doc - documentation for hydroffice.bag
+hydroffice.bag-tools - command-line tools for hydroffice.bag
+python-hydroffice.bag - manage Bathymetric Attributed Grid (BAG) data files (Python 2)
+python3-hydroffice.bag - manage Bathymetric Attributed Grid (BAG) data files (Python 3)
+libhyphen-dev - ALTLinux hyphenation library - development files
+libhyphen0 - ALTLinux hyphenation library - shared library
+hyphen-show - Show hyphenations in DVI-files
+ibus-libzhuyin - New Zhuyin engine based on libzhuyin for IBus
+idba - iterative De Bruijn Graph De Novo short read assembler for transcriptome
+libiml-dev - Integer Matrix Library, development files
+libiml0 - Integer Matrix Library, runtime files
+iog - network I/O grapher
+iptables-optimizer-doc - sphinx html documentation for iptables-optimizer
+iqtree - efficient phylogenetic software by maximum likelihood
+iva - iterative virus sequence assembler
+jack-tools - various JACK tools: dl, record, scope, osc, plumbing, udp, play, transport
+jacksum - computes checksums, CRCs and message digests
+jaligner - Smith-Waterman algorithm with Gotoh's improvement
+libjava-string-similarity-java - library of different string similarity and distance measures
+libjava-string-similarity-java-doc - Documentation for libjava-string-similarity-java
+libjgit-ant-java - Java implementation of GIT version control (Ant interface)
+libjgit-java - Java implementation of GIT version control
+libjgit-java-doc - Java implementation of GIT version control (documentation)
+joe - user friendly full screen text editor
+libjs-jshash - calculate secure hash algorithms in JavaScript
+libjts-java - JTS Topology Suite
+libjudy-dev - C library for creating and accessing dynamic arrays (dev package)
+libjudydebian1 - C library for creating and accessing dynamic arrays
+jupp - user friendly full screen text editor
+kalign - Global and progressive multiple sequence alignment
+keepassx - Cross Platform Password Manager
+libkido-dev - Kinematics Dynamics and Optimization Library - development files
+libkido-gui-dev - Kinematics Dynamics and Optimization Library - gui dev files
+libkido-gui-osg-dev - Kinematics Dynamics and Optimization Library - gui-osg dev files
+libkido-gui-osg0.1 - Kinematics Dynamics and Optimization Library - gui-osg library
+libkido-gui0.1 - Kinematics Dynamics and Optimization Library - gui library
+libkido-optimizer-ipopt-dev - Kinematics Dynamics and Optimization Library - ipopt optimizer dev
+libkido-optimizer-ipopt0.1 - Kinematics Dynamics and Optimization Library - ipopt optimizer lib
+libkido-optimizer-nlopt-dev - Kinematics Dynamics and Optimization Library - optimizer dev files
+libkido-optimizer-nlopt0.1 - Kinematics Dynamics and Optimization Library - nlopt optimizer lib
+libkido-planning-dev - Kinematics Dynamics and Optimization Library - planning dev files
+libkido-planning0.1 - Kinematics Dynamics and Optimization Library - planning library
+libkido-utils-dev - Kinematics Dynamics and Optimization Library - utils dev files
+libkido-utils0.1 - Kinematics Dynamics and Optimization Library - utils library
+libkido0.1 - Kinematics Dynamics and Optimization Library - main library
+kineticstools - detection of DNA modifications
+kineticstools-data - detection of DNA modifications -- data files
+python-kineticstools - detection of DNA modifications (Python 2 library)
+kmc - count kmers in genomic sequences
+sim4db - batch spliced alignment of cDNA sequences to a target genome
+kraken - assigning taxonomic labels to short DNA sequences
+liblbfgsb-dev - Limited-memory quasi-Newton bound-constrained optimization (static library)
+liblbfgsb-doc - Limited-memory quasi-Newton bound-constrained optimization (documentation)
+liblbfgsb-examples - Limited-memory quasi-Newton bound-constrained optimization (examples)
+liblbfgsb0 - Limited-memory quasi-Newton bound-constrained optimization
+libalgorithm-c3-perl - Perl module for merging hierarchies using the C3 algorithm
+libalgorithm-checkdigits-perl - Perl extension to generate and test check digits
+libalgorithm-combinatorics-perl - module for the efficient generation of combinatorial sequences
+libalgorithm-dependency-perl - Base class for implementing various dependency trees in Perl
+libalgorithm-diff-perl - module to find differences between files
+libalgorithm-diff-xs-perl - module to find differences between files (XS accelerated)
+libalgorithm-lbfgs-perl - Perl interface to an L-BFGS non-linear optimization algorithm
+libalgorithm-merge-perl - Perl module for three-way merge of textual data
+libalgorithm-munkres-perl - extension for Munkres' solution to Assignment problem
+libalgorithm-numerical-sample-perl - Draw samples from a set
+libauthen-oath-perl - Perl module for OATH One Time Passwords
+libauthen-sasl-saslprep-perl - Stringprep Profile for User Names and Passwords (RFC 4013)
+libbit-vector-perl - Perl module for bit vectors and more
+libbloom-filter-perl - Bloom filter implemented in Perl
+libbrahe-1.3-3 - heterogeneous C library of numeric functions
+libbrahe-dev - heterogeneous C library of numeric functions
+libcache-fastmmap-perl - Perl module providing a mmap'ed cache
+libcache-ref-perl - Perl module for caching references in memory
+libccd-dev - Library for collision detection between convex shapes - dev files
+libccd2 - Library for collision detection between convex shapes - shared library
+libccd2-dbg - Library for collision detection between convex shapes - debug files
+libchatbot-eliza-perl - clone of the classic Eliza program
+libchewing3 - intelligent phonetic input method library
+libchewing3-data - intelligent phonetic input method library - data files
+libchewing3-dev - intelligent phonetic input method library (developer version)
+libclass-c3-perl - pragma for using the C3 method resolution order
+libclaw-dev - Claw is a generalist C++ library (development files)
+libcolt-free-java - scalable scientific and technical computing in Java
+libcolt-free-java-doc - scalable scientific and technical computing in Java (doc)
+libconcurrentlinkedhashmap-java - Implementation of java.util.LinkedHashMap with concurrency support
+libconcurrentlinkedhashmap-java-doc - Documentation for libconcurrentlinkedhashmap-java
+libconvert-ascii85-perl - module for encoding and decoding of ascii85/base85 strings
+libconvert-pem-perl - Perl module for reading/writing encrypted ASN.1 PEM files
+libcoyotl-3.1-4v5 - portable C++ classes used by acovea
+libcoyotl-dev - portable C++ classes used by acovea -- development files
+libcpan-checksums-perl - Perl module to write a CHECKSUMS file for a directory as on CPAN
+libcrcutil-dev - library for cyclic redundancy check (CRC) computation - development files
+libcrcutil-doc - library for cyclic redundancy check (CRC) computation - documentation
+libcrcutil0 - library for cyclic redundancy check (CRC) computation
+libcrypt-blowfish-perl - Blowfish cryptography for Perl
+libcrypt-des-perl - Perl DES encryption module
+libcrypt-dh-perl - Diffie-Hellman key exchange system implemented in Perl
+libcrypt-dsa-perl - Perl module for DSA Signatures and Key Generation
+libcrypt-eksblowfish-perl - Perl module implementing the Eksblowfish block cipher
+libcrypt-openssl-dsa-perl - module which implements the DSA signature verification system
+libcrypt-pbkdf2-perl - Perl implementation of PBKDF2 password hash
+libcrypt-rc4-perl - Perl implementation of the RC4 encryption algorithm
+libcrypt-rijndael-perl - Perl module implementing the Rijndael algorithm
+libcrypt-saltedhash-perl - module for handling salted hashes
+libcrypt-twofish-perl - Perl module for Twofish Encryption Algorithm
+libcrypto++-dev - General purpose cryptographic library - C++ development
+libcrypto++-doc - General purpose cryptographic library - documentation
+libcrypto++-utils - General purpose cryptographic library - utilities and data files
+libdata-entropy-perl - Perl module for entropy (randomness) management
+libdata-uuid-perl - globally/universally unique identifiers (GUIDs/UUIDs)
+libdate-pregnancy-perl - Perl module to calculate birthdate and week numbers for a pregnancy
+libdigest-bcrypt-perl - Perl interface to the bcrypt digest algorithm
+libdigest-bubblebabble-perl - perl module to create bubble-babble fingerprints
+libdigest-elf-perl - Perl extension for ElfHash
+libdigest-hmac-perl - module for creating standard message integrity checks
+libdigest-jhash-perl - Perl extension for 32 bit Jenkins Hashing Algorithm
+libdigest-md2-perl - MD2 Message Digest for Perl
+libdigest-md4-perl - MD4 Message Digest for Perl
+libdigest-perl-md5-perl - Perl Implementation of Rivest's MD5 algorithm
+libdigest-whirlpool-perl - A 512-bit, collision-resistant, one-way hash function
+libdvbcsa-dev - free implementation of the DVB/CSA (development files)
+libdvbcsa1 - free implementation of the DVB/CSA
+libejml-java - Efficient Java Matrix Library
+libevocosm-4.0-4 - C++ framework for developing evolutionary algorithms
+libevocosm-dev - C++ framework for developing evolutionary algorithms
+libgcrypt-mingw-w64-dev - LGPL Crypto library - Windows development
+libgcrypt20 - LGPL Crypto library - runtime library
+libgcrypt20-dev - LGPL Crypto library - development files
+libgcrypt20-doc - LGPL Crypto library - documentation
+libgee-0.8-2 - GObject based collection and utility library
+libgee-0.8-dev - GObject based collection and utility library (development files)
+libgeo-google-mapobject-perl - module managing the server side of the Google Maps API
+libgraph-perl - Perl module for graph data structures and algorithms
+libgringotts-dev - development files for the gringotts data encapsulation library
+libgringotts2 - gringotts data encapsulation and encryption library
+libgsm-tools - User binaries for a GSM speech compressor
+libgsm1 - Shared libraries for GSM speech compressor
+libgsm1-dbg - Shared libraries for GSM speech compressor (debug symbols)
+libgsm1-dev - Development libraries for a GSM speech compressor
+libhpptools-dev - various C++ header tools
+libhtml-html5-outline-perl - implementation of the HTML5 Outline algorithm
+libhtml5parser-java - validator.nu HTML parser implementation in Java
+libhtml5parser-java-doc - Documentation for libhtml5parser-java
+libhttp-negotiate-perl - implementation of content negotiation
+idn2 - Internationalized domain names (IDNA2008) command line tool
+libidn2-0 - Internationalized domain names (IDNA2008) library
+libidn2-0-dbg - Internationalized domain names (IDNA2008) debug symbols
+libidn2-0-dev - Internationalized domain names (IDNA2008) development files
+libio-async-loop-epoll-perl - Perl extension for an event loop using epoll
+libio-html-perl - open an HTML file with automatic charset detection
+libjama-dev - C++ Linear Algebra Package
+libjazzy-java - spell checker java library
+libjgrapht0.6-java - mathematical graph theory library for Java
+libjgrapht0.8-java - mathematical graph theory library for Java
+libjgrapht0.8-java-doc - javadoc-generated API for libjgrapht0.8-java
+libjloda-java - Java library of data structures and algorithms for bioinformatics
+libjsr166y-java - Parallel computation framework for Java
+libjsr166y-java-doc - Documentation for libjsr166y-java
+libjung-free-java - Java Universal Network/Graph Framework
+libjung-free-java-doc - Java Universal Network/Graph Framework (documentation)
+libkinosearch1-perl - Perl library providing search engine features
+liblemon-dev - Library for Efficient Modeling and Optimization in Networks (development)
+liblemon-doc - Library for Efficient Modeling and Optimization in Networks (doc)
+liblemon-utils - Library for Efficient Modeling and Optimization in Networks (utilities)
+liblemon1.3.1 - Library for Efficient Modeling and Optimization in Networks
+liblingua-pt-stemmer-perl - Portuguese language stemming
+liblingua-stem-perl - Stemming of words
+liblingua-stem-snowball-da-perl - Porters stemming algorithm for Denmark
+liblqr-1-0 - converts plain array images into multi-size representation
+liblqr-1-0-dbg - converts plain array images into multi-size representation (debug package)
+liblqr-1-0-dev - converts plain array images into multi-size representation (developments files)
+liblucy-perl - search engine library
+libm4ri-0.0.20140914 - Method of the Four Russians Inversion library, shared library
+libm4ri-0.0.20140914-dbg - debugging symbols for libm4ri-0.0.20140914
+libm4ri-dev - Method of the Four Russians Inversion library, development files
+libm4rie-0.0.20150908 - extended Method of the Four Russians Inversion library, shared library
+libm4rie-dev - extended Method of the Four Russians Inversion library, development files
+libmail-thread-perl - library for threading email by In-Reply-To and References
+libmath-bezier-perl - Perl module for the solution of Bezier Curves
+libmath-convexhull-monotonechain-perl - Perl module to calculate a convex hull using Andrew's monotone chain algorithm
+libmath-convexhull-perl - Perl module to calculate convex hulls using Graham's scan (n*log(n))
+libmath-geometry-voronoi-perl - Perl module to compute Voronoi diagrams from sets of points
+libmath-numbercruncher-perl - Perl5 module with commonly needed Maths and Stats functions
+libmath-polygon-perl - Perl module for Polygon calculations
+libmath-random-isaac-perl - Perl interface to the ISAAC PRNG Algorithm
+libmath-random-mt-perl - Perl implementation of the Mersenne Twister algorithm
+libmath-random-oo-perl - consistent object-oriented interface for generating random numbers
+libmath-random-tt800-perl - Perl module implementing the TT800 algorithm
+libmath-vec-perl - Object-Oriented Vector Math Methods in Perl
+libmath-vector-real-kdtree-perl - kd-Tree implementation for Perl on top of Math::Vector::Real
+libmcrypt-dev - De-/Encryption Library development files
+libmcrypt4 - De-/Encryption Library
+libmd-dev - message digest functions from BSD systems - development files
+libhashkit-dev - libmemcached hashing functions and algorithms (development files)
+libhashkit2 - libmemcached hashing functions and algorithms
+libmemcached-dbg - Debug Symbols for libmemcached
+libmemcached-dev - C and C++ client library to the memcached server (development files)
+libmemcached11 - C and C++ client library to the memcached server
+libmemcachedutil2 - library implementing connection pooling for libmemcached
+libmemcached-libmemcached-perl - thin, fast, full interface to the libmemcached client API
+libmems-1.6-1v5 - library to support DNA string matching and comparative genomics
+libmems-1.6-dev - development library to support DNA string matching and comparative genomics
+libmodule-reader-perl - module to find and read perl modules like perl does
+libmodule-signature-perl - module to manipulate CPAN SIGNATURE files
+libmojolicious-plugin-bcrypt-perl - module to bcrypt passwords for Mojolicious
+libmowgli-dev - high performance development framework for C (development)
+libmowgli2 - high performance development framework for C
+libmowgli2-dbg - high performance development framework for C (debug)
+libmowgli-2-0 - high performance development framework for C
+libmowgli-2-0-dbg - high performance development framework for C (debug)
+libmowgli-2-dev - high performance development framework for C (development)
+libmpcdec-dev - MusePack decoder - development files
+libmpcdec6 - MusePack decoder - library
+musepack-tools - MusePack commandline utilities
+libmpikmeans-dev - Development libraries and header files for MPIKmeans
+libmpikmeans1 - Fast Library for k-means Clustering
+mpikmeans-tools - Standalone applications for MPIKmeans
+python-mpikmeans - Python bindings for MPIKmeans
+libmstoolkit-dev - libraries for manipulating mass spectrometry data - dev files
+libmstoolkit77 - libraries for manipulating mass spectrometry data - runtime
+libmstoolkit77-dbg - libraries for manipulating mass spectrometry data - debug symbols
+libnet-patricia-perl - Perl module for fast IP address lookups
+libnews-article-perl - Perl modules for manipulating Usenet articles
+libocas-dev - Development libraries and header files for LIBOCAS
+libocas-tools - Standalone applications implementing the OCAS solver
+libocas0 - OCAS solver for training linear SVM classifiers
+liboptimization-java - Nonlinear Optimization Java Package
+libpano13-3 - panorama tools library
+libpano13-dev - panorama tools library development files
+libpinyin-dbg - library to deal with PinYin - debug symbols
+libpinyin-utils - library to deal with PinYin - utilities
+libpinyin7 - library to deal with PinYin
+libpinyin7-dev - library to deal with PinYin - development files
+libpyzy-1.0-0v5 - Chinese PinYin and Bopomofo conversion library
+libpyzy-dev - Development files of libpyzy
+libquantum-dev - library for the simulation of a quantum computer (development files)
+libquantum8 - library for the simulation of a quantum computer
+libreoffice-nlpsolver - "Solver for Nonlinear Programming" extension for LibreOffice
+librscode-dbg - debugging symbols for RSCODE
+librscode-dev - development libraries and headers for RSCODE
+librscode1 - library implementing a Reed-Solomon error correction algorithm
+librsync-dbg - rsync remote-delta algorithm library (debug)
+librsync-dev - rsync remote-delta algorithm library (development)
+librsync1 - rsync remote-delta algorithm library
+rdiff - Binary diff tool for signature-based differences
+libsamplerate0 - Audio sample rate conversion library
+libsamplerate0-dev - Development files for audio sample rate conversion
+libscrypt-dev - scrypt shared library - development files
+libscrypt0 - scrypt shared library
+libsmithwaterman-dev - determine similar regions between two strings or genomic sequences (devel)
+libsmithwaterman0 - determine similar regions between two strings or genomic sequences (lib)
+smithwaterman - determine similar regions between two strings or genomic sequences
+libsnowball-norwegian-perl - Stemming algorithm for Norwegian
+libsnowball-swedish-perl - Stemming algorithm for Swedish
+libsolv-doc - dependency solver using a satisfiablility algorithm (documentation files)
+libsolv-perl - dependency solver using a satisfiability algorithm (Perl bindings)
+libsolv-tools - dependency solver using a satisfiability algorithm (command-line tools)
+libsolv0 - dependency solver using a satisfiability algorithm (shared library)
+libsolv0-dev - dependency solver using a satisfiability algorithm (development files)
+libsolvext0 - dependency solver using a satisfiability algorithm (extensions)
+libsolvext0-dev - dependency solver using a satisfiability algorithm (ext development files)
+python-solv - dependency solver using a satisfiability algorithm (Python2 bindings)
+python3-solv - dependency solver using a satisfiability algorithm (Python3 bindings)
+libsort-naturally-perl - Sort naturally - sort lexically except for numerical parts
+libsort-versions-perl - Perl module for sorting of revision (and similar) numbers
+libssw-dev - Development headers and static libraries for libssw
+libssw-java - Java bindings for libssw
+libssw0 - fast SIMD parallelized implementation of the Smith-Waterman algorithm
+ssw-align - Smith-Waterman aligner based on libssw
+libstatistics-distributions-perl - module for calculating some values of common statistical distributions
+libstatistics-online-perl - module to perform statistic operations on large datasets
+libstatistics-test-sequence-perl - Perl module that tests correlation of random numbers
+libstatistics-welford-perl - Standard statistics using Welford's algorithm
+libstring-dirify-perl - utility converting string to a safe format
+libstring-koremutake-perl - Convert to/from Koremutake Memorable Random Strings
+libtemplate-plugin-digest-md5-perl - interface to the MD5 Algorithm for the Template Toolkit
+libtest-refcount-perl - Perl module to assert reference counts
+libtext-bidi-perl - Unicode bidi algorithm for Perl using libfribidi
+libtext-csv-perl - comma-separated values manipulator (using XS or PurePerl)
+libtext-levenshtein-damerau-perl - Edit distance calculator with Damerau Levenshtein algorithm
+libtext-reflow-perl - Perl module for reflowing files using Knuth's algorithm
+libtext-soundex-perl - implementation of the soundex algorithm
+libthrust-dev - Thrust - Parallel Algorithms Library
+libtnt-dev - interface for scientific computing in C++
+libtomcrypt-dev - static library, header files and documentation for libtomcrypt
+libtomcrypt0 - public domain open source cryptographic toolkit
+libtommath-dev - multiple-precision integer library [development files]
+libtommath-docs - multiple-precision integer library [documentation]
+libtommath1 - multiple-precision integer library [runtime]
+libtree-redblack-perl - Perl implementation of Red/Black tree, a balanced tree
+libunibreak-dev - line breaking library for Unicode (development files)
+libunibreak-doc - line breaking library for Unicode (documentation)
+libunibreak1 - line breaking library for Unicode (shared library)
+libunicode-collate-perl - Unicode collation algorithm built with fast XSUB
+libunicode-linebreak-perl - UAX #14 Unicode Line Breaking Algorithm
+libvcs-lite-perl - Minimal version control system
+libvideo-fourcc-info-perl - Perl module to find information about codecs from its FourCC
+libvigraimpex-dev - development files for the C++ computer vision library
+libvigraimpex-doc - Documentation for the C++ computer vision library
+libvigraimpex6 - C++ computer vision library
+python-vigra - Python bindings for the C++ computer vision library
+python-vigra-doc - Documentation for Python bindings for the C++ computer vision library
+libzhuyin-data - Data for zhuyin input method library
+libzhuyin-dev - Development files for zhuyin input method library
+libzhuyin7 - Zhuyin input method library
+libzstd-dev - fast lossless compression algorithm -- development files
+libzstd1 - fast lossless compression algorithm
+zstd - fast lossless compression algorithm -- CLI tool
+libliggghts-dev - Open Source DEM Particle Simulation Software. Development files
+libliggghts3 - Open Source DEM Particle Simulation Software. Shared library
+liggghts - Open Source DEM Particle Simulation Software.
+liggghts-doc - Open Source DEM Particle Simulation Software. Dcoumentation and examples
+python-lmfit - Least-Squares Minimization with Constraints (Python 2)
+python-lmfit-doc - Least-Squares Minimization with Constraints (Documentation)
+python3-lmfit - Least-Squares Minimization with Constraints (Python 3)
+calf-ladspa - Linux Multimedia Studio - Calf LADSPA plugins
+python-logilab-constraint - constraints satisfaction solver in Python
+liblpsolve55-dev - Solve (mixed integer) linear programming problems - library
+lp-solve - Solve (mixed integer) linear programming problems
+lp-solve-doc - Solve (mixed integer) linear programming problems - documentation
+lrzip - compression program with a very high compression ratio
+lua-md5 - MD5 library for the Lua language
+lunzip - data compressor based on the LZMA algorithm (decompressor)
+lunzip-dbg - data compressor based on the LZMA algorithm (decompressor debug)
+liblz4-1 - Fast LZ compression algorithm library - runtime
+liblz4-1-dbg - Fast LZ compression algorithm library - Debugging Symbols
+liblz4-dev - Fast LZ compression algorithm library - development files
+liblz4-tool - Fast LZ compression algorithm library - tool
+lzd - Educational, lossless data compressor based on the LZMA algorithm
+lzd-dbg - Educational, lossless data compressor based on the LZMA algorithm (debug)
+lzip - lossless data compressor based on the LZMA algorithm
+lzip-dbg - lossless data compressor based on the LZMA algorithm (debug)
+lziprecover - lossless data compressor based on the LZMA algorithm (recovery)
+lziprecover-dbg - lossless data compressor based on the LZMA algorithm
+liblz-dbg - data compressor based on the LZMA algorithm (debug)
+liblz-dev - data compressor based on the LZMA algorithm (development)
+liblz1 - data compressor based on the LZMA algorithm (library)
+minilzip - minified, lossless data compressor based on the LZMA algorithm
+lzma - Compression and decompression in the LZMA format - command line utility
+lzma-alone - Compression and decompression in the LZMA format - legacy utility
+lzma-dev - Compression and decompression in the LZMA format - development files
+macs - Model-based Analysis of ChIP-Seq on short reads sequencers
+macsyfinder - detection of macromolecular systems in protein datasets
+mafft - Multiple alignment program for amino acid or nucleotide sequences
+magic - VLSI layout tool
+libmail-spf-perl - Perl implementation of Sender Policy Framework and Sender ID
+mandelbulber - 3D fractal renderer and animator
+mandelbulber2 - 3D fractal renderer and animator
+mandelbulber2-data - 3D fractal renderer and animator - data files
+libmapnik-dev - C++ toolkit for developing GIS applications (devel)
+libmapnik3.0 - C++ toolkit for developing GIS applications (libraries)
+mapnik-doc - C++ toolkit for developing GIS applications (doc)
+mapnik-utils - C++ toolkit for developing GIS applications (utilities)
+libmarisa-dev - developement files for libmarisa
+libmarisa-perl - Perl bindings for MARISA
+libmarisa0 - C++ library to provide an implementation of MARISA
+marisa - commmand line tools for libmarisa
+python-marisa - Python bindings for MARISA
+python3-marisa - Python3 bindings for MARISA
+ruby-marisa - Ruby bindings for MARISA
+libmathicgb-dev - Compute Groebner bases (developer tools)
+libmathicgb0 - Compute Groebner bases (runtime library)
+mathicgb - Compute Groebner bases (command line tool)
+mauve-aligner - multiple genome alignment
+mawk - a pattern scanning and text processing language
+libmaxflow-dev - Development files for the maxflow-mincut algorithm
+libmaxflow0 - This library provides the maxflow-mincut algorithm
+libmaxflow0-dbg - Debug information for the maxflow-mincut algorithm
+libmbedcrypto0 - lightweight crypto and SSL/TLS library - crypto library
+libmbedtls-dev - lightweight crypto and SSL/TLS library - development files
+libmbedtls-doc - lightweight crypto and SSL/TLS library - documentation
+libmbedtls10 - lightweight crypto and SSL/TLS library - tls library
+libmbedx509-0 - lightweight crypto and SSL/TLS library - x509 certificate library
+mbt - memory-based tagger-generator and tagger
+mcl - Markov Cluster algorithm
+mcl-doc - documentation for mcl
+libmdds-dev - Multi Dimension Data structure library -- headers
+libmdds-doc - Multi Dimension Data structure library -- documentation
+python-mdp - Modular toolkit for Data Processing
+python3-mdp - Modular toolkit for Data Processing
+libmetis-dev - Serial Graph Partitioning and Fill-reducing Matrix Ordering. Header
+libmetis-doc - Serial Graph Partitioning and Fill-reducing Matrix Ordering. Documentation
+libmetis5 - Serial Graph Partitioning and Fill-reducing Matrix Ordering
+libmetis5-dbg - Serial Graph Partitioning and Fill-reducing Matrix Ordering. Debugging symbols
+metis - Serial Graph Partitioning and Fill-reducing Matrix Ordering. Binaries
+mhap - locality-sensitive hashing to detect long-read overlaps
+libmhash-dev - Library for cryptographic hashing and message authentication
+libmhash2 - Library for cryptographic hashing and message authentication
+libmia-2.4-0 - library for 2D and 3D gray scale image processing
+libmia-2.4-dev - library for 2D and 3D gray scale image processing, development files
+libmia-2.4-doc - library for 2D and 3D gray scale image processing, documentation
+mia-tools - Command line tools for gray scale image processing
+mia-tools-doc - Cross-referenced documentation of the MIA command line tools
+microbiomeutil-data - Reference 16S sequences and NAST-alignments used by microbiomeutil tools
+nast-ier - NAST-based DNA alignment tool
+wigeon - reimplementation of the Pintail 16S DNA anomaly detection utility
+libminpack1 - nonlinear equations and nonlinear least squares shared library
+minpack-dev - nonlinear equations and nonlinear least squares static library
+r-cran-misc3d - GNU R collection of 3d plot functions and rgl-based isosurfaces
+mixxx - Digital Disc Jockey Interface
+mixxx-data - Digital Disc Jockey Interface -- data files
+mnemosyne - spaced repetition flash-card program
+montage - Toolkit for assembling FITS images into mosaics
+mothur - sequence analysis suite for research on microbiota
+mothur-mpi - mpi-enabled binary for mothur
+mpc123 - command-line Musepack audio player
+gdl-mpfit - Robust non-linear least squares curve fitting for GDL
+python-mpmath - library for arbitrary-precision floating-point arithmetic
+python-mpmath-doc - library for arbitrary-precision floating-point arithmetic - Documentation
+python3-mpmath - library for arbitrary-precision floating-point arithmetic (Python3)
+libmrmpi-dev - Implements MapReduce operation on top of standard MPI message - development
+libmrmpi1 - Implements MapReduce operation on top of standard MPI message - runtime
+mrmpi-doc - Implements MapReduce operation on top of standard MPI message - doc
+libmrpt-base1.4 - Mobile Robot Programming Toolkit - base library
+libmrpt-dbg - Mobile Robot Programming Toolkit - Debug libraries
+libmrpt-detectors1.4 - Mobile Robot Programming Toolkit - detectors library
+libmrpt-dev - Mobile Robot Programming Toolkit - Development headers
+libmrpt-gui1.4 - Mobile Robot Programming Toolkit - gui library
+libmrpt-hmtslam1.4 - Mobile Robot Programming Toolkit - hmtslam library
+libmrpt-hwdrivers1.4 - Mobile Robot Programming Toolkit - hwdrivers library
+libmrpt-kinematics1.4 - Mobile Robot Programming Toolkit - kinematics library
+libmrpt-maps1.4 - Mobile Robot Programming Toolkit - maps library
+libmrpt-nav1.4 - Mobile Robot Programming Toolkit - nav library
+libmrpt-obs1.4 - Mobile Robot Programming Toolkit - obs library
+libmrpt-opengl1.4 - Mobile Robot Programming Toolkit - opengl library
+libmrpt-slam1.4 - Mobile Robot Programming Toolkit - slam library
+libmrpt-tfest1.4 - Mobile Robot Programming Toolkit - tfest library
+libmrpt-topography1.4 - Mobile Robot Programming Toolkit - topography library
+libmrpt-vision1.4 - Mobile Robot Programming Toolkit - vision library
+mrpt-apps - Mobile Robot Programming Toolkit - Console and GUI applications
+mrpt-common - Mobile Robot Programming Toolkit - Example datasets and files
+mrpt-doc - Mobile Robot Programming Toolkit - Documentation and examples
+mrs - Information Retrieval System for Biomedical databanks
+mscompress - Microsoft "compress.exe/expand.exe" compatible (de)compressor
+msort - utility for sorting records in complex ways
+python-munkres - munkres algorithm for the Assignment Problem - Python 2.x library
+python3-munkres - munkres algorithm for the Assignment Problem - Python 3 library
+muon - package manager for KDE
+mustang - multiple structural alignment of proteins
+ncbi-seg - tool to mask segments of low compositional complexity in amino acid sequences
+ncompress - original Lempel-Ziv compress/uncompress programs
+libcneartree-dev - Library and headers for solving the Nearest Neighbor Problem
+libcneartree5 - Library for solving the Nearest Neighbor Problem
+python-neo - Python IO library for electrophysiological data formats
+libhogweed4 - low level cryptographic library (public-key cryptos)
+libnettle6 - low level cryptographic library (symmetric and one-way cryptos)
+nettle-bin - low level cryptographic library (binary tools)
+nettle-dev - low level cryptographic library (development files)
+niceshaper - Dynamic Traffic Shaper
+python-nitime - timeseries analysis for neuroscience data (nitime)
+libnlopt-dev - nonlinear optimization library -- development package
+libnlopt-guile0 - nonlinear optimization library -- Guile bindings
+libnlopt0 - nonlinear optimization library
+octave-nlopt - nonlinear optimization library -- GNU Octave package
+python-nlopt - nonlinear optimization library -- Python bindings
+node-crc - module for calculating Cyclic Redundancy Check (CRC)
+node-deep-equal - node's assert.deepEqual algorithm
+node-deep-is - node's assert.deepEqual algorithm except for NaN being equal to NaN
+node-diff - javascript text differencing implementation
+node-fast-levenshtein - efficient implementation of Levenshtein algorithm
+node-mapnik - bindings to the Mapnik tile rendering library for Node.js
+node-mess - Fisher–Yates shuffle algorithm implementation for Node.js
+node-quickselect - JavaScript selection algorithm
+node-resolve - Synchronous/Asynchronous require.resolve() algorithm
+node-sha - Check and get file or stream hashes - module for Node.js
+libntl-dev - Number Theory Library, development files
+libntl27 - Number Theory Library, shared library
+liboath-dev - Development files for the OATH Toolkit Liboath library
+liboath0 - OATH Toolkit Liboath library
+libpam-oath - OATH Toolkit libpam_oath PAM module
+oath-dbg - OATH Toolkit debugging symbols
+oathtool - OATH Toolkit oathtool command line tool
+libagrep-ocaml - Wu-Manber algorithm for string searching with errors
+libagrep-ocaml-dev - Wu-Manber algorithm for string searching with errors
+libocamlgraph-ocaml-dev - graph library for OCaml
+libocamlgraph-viewer-ocaml-dev - graph library for OCaml
+liboce-modeling10 - OpenCASCADE Community Edition CAE platform shared library
+ocplib-simplex-ocaml-dev - simplex library for solving linear inequalities
+python-gamera.toolkits.ocr - toolkit for building OCR systems
+octave-ga - genetic optimization code for Octave
+octave-octclip - boolean operations with polygons in Octave
+octave-optim - unconstrained non-linear optimization toolkit for Octave
+liboctomap-dev - Octomap library development files
+liboctomap1.8 - 3D occupancy grid mapping approach library for mapping
+octomap-tools - Tools for 3D occupancy grid mapping
+offlineimap - IMAP/Maildir synchronization and reader support
+libompl-dev - Open Motion Planning Library (OMPL) development files
+libompl11 - Open Motion Planning Library (OMPL)
+libompl11-dbg - Open Motion Planning Library (OMPL) debug symbols
+ompl-demos - Open Motion Planning Library (OMPL) demos
+onetime - command-line encryption using the "one-time pad" method
+libopencsg-dev - image-based CSG library using OpenGL (development files)
+libopencsg-example - image-based CSG library using OpenGL (example program)
+libopencsg1 - image-based CSG (Constructive Solid Geometry) library using OpenGL
+libopencsg1-dbg - debugging symbols for libopencsg
+libcv-dev - Translation package for libcv-dev
+libcv2.4 - computer vision library - libcv* translation package
+libcvaux-dev - Translation package for libcvaux-dev
+libcvaux2.4 - computer vision library - libcvaux translation package
+libhighgui-dev - Translation package for libhighgui-dev
+libhighgui2.4 - computer vision library - libhighgui translation package
+libopencv-calib3d-dev - development files for libopencv-calib3d
+libopencv-calib3d2.4v5 - computer vision Camera Calibration library
+libopencv-contrib-dev - development files for libopencv-contrib
+libopencv-contrib2.4v5 - computer vision contrib library
+libopencv-core-dev - development files for libopencv-core
+libopencv-core2.4v5 - computer vision core library
+libopencv-dev - development files for opencv
+libopencv-features2d-dev - development files for libopencv-features2d
+libopencv-features2d2.4v5 - computer vision Feature Detection and Descriptor Extraction library
+libopencv-flann-dev - development files for libopencv-flann
+libopencv-flann2.4v5 - computer vision Clustering and Search in Multi-Dimensional spaces library
+libopencv-gpu-dev - development files for libopencv-gpu2.4v5
+libopencv-gpu2.4v5 - computer vision GPU library
+libopencv-highgui-dev - development files for libopencv-highgui
+libopencv-highgui2.4-deb0 - computer vision High-level GUI and Media I/O library
+libopencv-imgproc-dev - development files for libopencv-imgproc
+libopencv-imgproc2.4v5 - computer vision Image Processing library
+libopencv-legacy-dev - development files for libopencv-legacy
+libopencv-legacy2.4v5 - computer vision legacy library
+libopencv-ml-dev - development files for libopencv-ml
+libopencv-ml2.4v5 - computer vision Machine Learning library
+libopencv-objdetect-dev - development files for libopencv-objdetect
+libopencv-objdetect2.4v5 - computer vision Object Detection library
+libopencv-ocl-dev - development files for libopencv-ocl2.4v5
+libopencv-ocl2.4v5 - computer vision OpenCL support library
+libopencv-photo-dev - development files for libopencv-photo2.4v5
+libopencv-photo2.4v5 - computer vision computational photography library
+libopencv-stitching-dev - development files for libopencv-stitching2.4v5
+libopencv-stitching2.4v5 - computer vision image stitching library
+libopencv-superres-dev - development files for libopencv-superres2.4v5
+libopencv-superres2.4v5 - computer vision Super Resolution library
+libopencv-ts-dev - development files for libopencv-ts2.4v5
+libopencv-ts2.4v5 - computer vision ts library
+libopencv-video-dev - development files for libopencv-video
+libopencv-video2.4v5 - computer vision Video analysis library
+libopencv-videostab-dev - development files for libopencv-videostab2.4v5
+libopencv-videostab2.4v5 - computer vision video stabilization library
+libopencv2.4-java - Java bindings for the computer vision library
+libopencv2.4-jni - Java jni library for the computer vision library
+opencv-data - development data for opencv
+opencv-doc - OpenCV documentation and examples
+python-opencv - Python bindings for the computer vision library
+libopenexr-dev - development files for the OpenEXR image library
+libopenexr22 - runtime files for the OpenEXR image library
+openexr - command-line tools for the OpenEXR image format
+openexr-doc - documentation and examples for the OpenEXR image format
+libopengm-bin - command line tools for OpenGM
+libopengm-dev - C++ template library for discrete factor graph models
+libopengm-doc - documentation and examples for OpenGM
+python-opengm - Python interface to OpenGM
+python-opengm-doc - documentation for the Python interface to OpenGM
+openpref - card game against two virtual players
+openturns-validation - validation files for OpenTURNS
+libotb - ORFEO Toolbox library metapackage
+libotb-apps - Plugins for ORFEO Toolbox applications
+libotb-dev - Free library of image processing algorithms - development
+libotbapplicationengine-5.8-1 - ORFEO Toolbox library - OTBApplicationEngine
+libotbcarto-5.8-1 - ORFEO Toolbox library - OTBCarto
+libotbcommandline-5.8-1 - ORFEO Toolbox library - OTBCommandLine
+libotbcommandlineparser-5.8-1 - ORFEO Toolbox library - OTBCommandLinePaser
+libotbcommon-5.8-1 - ORFEO Toolbox library - OTBCommon
+libotbcurladapters-5.8-1 - ORFEO Toolbox library - OTBCurlAdapters
+libotbedge-5.8-1 - ORFEO Toolbox library - OTBEdge
+libotbextendedfilename-5.8-1 - ORFEO Toolbox library - OTBExtendedFileName
+libotbfuzzy-5.8-1 - ORFEO Toolbox library - OTBFuzzy
+libotbgdaladapters-5.8-1 - ORFEO Toolbox library - OTBGdalAdapters
+libotbice-5.8-1 - ORFEO Toolbox library - OTBIce
+libotbimagebase-5.8-1 - ORFEO Toolbox library - OTBImageBase
+libotbimageio-5.8-1 - ORFEO Toolbox library - OTBImageIO
+libotbimagemanipulation-5.8-1 - ORFEO Toolbox library - OTBImageManipulation
+libotbiobsq-5.8-1 - ORFEO Toolbox library - OTBIOBSQ
+libotbiogdal-5.8-1 - ORFEO Toolbox library - OTBIOGDAL
+libotbiokml-5.8-1 - ORFEO Toolbox library - OTBIOKML
+libotbiolum-5.8-1 - ORFEO Toolbox library - OTBIOLUM
+libotbiomstar-5.8-1 - ORFEO Toolbox library - OTBIOMSTAR
+libotbiomw-5.8-1 - ORFEO Toolbox library - OTBIOMW
+libotbioonera-5.8-1 - ORFEO Toolbox library - OTBIOONERA
+libotbiorad-5.8-1 - ORFEO Toolbox library - OTBIORAD
+libotbiotilemap-5.8-1 - ORFEO Toolbox library - OTBIOTileMap
+libotbmathparser-5.8-1 - ORFEO Toolbox library - OTBMathParser
+libotbmetadata-5.8-1 - ORFEO Toolbox library - OTBMetadata
+libotbmonteverdicore-5.8-1 - ORFEO Toolbox library - OTBMonteverdiCore
+libotbmonteverdigui-5.8-1 - ORFEO Toolbox library - OTBMonteverdiGUI
+libotbopenthreadsadapters-5.8-1 - ORFEO Toolbox library - OTBOpenThreadsAdapters
+libotbossimadapters-5.8-1 - ORFEO Toolbox library - OTBOssimAdapters
+libotbossimplugins-5.8-1 - ORFEO Toolbox library - OTBOssimPlugins
+libotbpolarimetry-5.8-1 - ORFEO Toolbox library - OTBPolarimetry
+libotbprojection-5.8-1 - ORFEO Toolbox library - OTBProjection
+libotbqtadapters-5.8-1 - ORFEO Toolbox library - OTBQtAdapters
+libotbqtwidget-5.8-1 - ORFEO Toolbox library - OTBQtWidget
+libotbrcc8-5.8-1 - ORFEO Toolbox library - OTBRCC8
+libotbsampling-5.8-1 - ORFEO Toolbox library - OTBSampling
+libotbsiftfast-5.8-1 - ORFEO Toolbox library - OTBSiftFast
+libotbstatistics-5.8-1 - ORFEO Toolbox library - OTBStatistics
+libotbstreaming-5.8-1 - ORFEO Toolbox library - OTBStreaming
+libotbsupervised-5.8-1 - ORFEO Toolbox library - OTBSupervised
+libotbtestkernel-5.8-1 - ORFEO Toolbox library - OTBTestKernel
+libotbtransform-5.8-1 - ORFEO Toolbox library - OTBTransform
+libotbvectordatabase-5.8-1 - ORFEO Toolbox library - OTBVectorDataBase
+libotbvectordataio-5.8-1 - ORFEO Toolbox library - OTBVectorDataIO
+libotbwavelet-5.8-1 - ORFEO Toolbox library - OTBWavelet
+monteverdi - ORFEO Toolbox image processing GUI
+otb-bin - ORFEO Toolbox command line applications
+otb-bin-qt - ORFEO Toolbox graphical user interface applications
+otb-i18n - ORFEO Toolbox translations
+otb-testdriver - ORFEO Toolbox library - OTBTestDriver
+python-otb - ORFEO Toolbox Python API for applications
+libp4est-1.1 - Algorithms for Parallel Adaptive Mesh Refinement - shared library
+libp4est-dev - Algorithms for Parallel Adaptive Mesh Refinement - development files
+libp4est-sc-1.1 - Algorithms for Parallel Adaptive Mesh Refinement - support library
+pagetools - Automatic deskew and bounding box determination for scanned page images
+parsinsert - Parsimonious Insertion of unclassified sequences into phylogenetic trees
+python-parsley - pattern-matching language based on OMeta and Python
+pbdagcon - sequence consensus using directed acyclic graphs
+pbgenomicconsensus - Pacific Biosciences variant and consensus caller
+python-pbgenomicconsensus - Pacific Biosciences variant and consensus caller (Python 2)
+libpcl-apps1.8 - Point Cloud Library - apps library
+libpcl-common1.8 - Point Cloud Library - common library
+libpcl-dev - Point Cloud Library - development files
+libpcl-doc - Point Cloud Library - documentation
+libpcl-features1.8 - Point Cloud Library - features library
+libpcl-filters1.8 - Point Cloud Library - filters library
+libpcl-io1.8 - Point Cloud Library - I/O library
+libpcl-kdtree1.8 - Point Cloud Library - kdtree library
+libpcl-keypoints1.8 - Point Cloud Library - keypoints library
+libpcl-ml1.8 - Point Cloud Library - ml library
+libpcl-octree1.8 - Point Cloud Library - octree library
+libpcl-outofcore1.8 - Point Cloud Library - outofcore library
+libpcl-people1.8 - Point Cloud Library - people library
+libpcl-recognition1.8 - Point Cloud Library - recognition library
+libpcl-registration1.8 - Point Cloud Library - registration library
+libpcl-sample-consensus1.8 - Point Cloud Library - sample consensus library
+libpcl-search1.8 - Point Cloud Library - search library
+libpcl-segmentation1.8 - Point Cloud Library - segmentation library
+libpcl-stereo1.8 - Point Cloud Library - stereo library
+libpcl-surface1.8 - Point Cloud Library - surface library
+libpcl-tracking1.8 - Point Cloud Library - tracking library
+libpcl-visualization1.8 - Point Cloud Library - visualization library
+pcl-tools - Point Cloud Library - point cloud processing tools
+pd-aubio - aubio external for PureData
+pd-boids - Pd library for the "boids" flocking simulator algorithm
+pd-chaos - Pd library for calculating various chaotic attractors
+pd-cxc - Pd library for working with patterns and numbers
+pd-pan - library of stereo panning algorithms for Pd
+pd-rtclib - Real Time Composition Library for Pure Data (Pd)
+pd-vbap - Pd library for Vector Base Amplitude Panning spatialization
+libpdal-base4 - Point Data Abstraction Library - libpdal_base
+libpdal-dev - Point Data Abstraction Library - development files
+libpdal-plang4 - Point Data Abstraction Library - libpdal_plang
+libpdal-plugin-greyhound - Point Data Abstraction Library - Greyhound plugin
+libpdal-plugin-icebridge - Point Data Abstraction Library - Icebridge plugin
+libpdal-plugin-pgpointcloud - Point Data Abstraction Library - PostgreSQL PointCloud plugin
+libpdal-plugin-python - Point Data Abstraction Library - Python plugin
+libpdal-plugin-sqlite - Point Data Abstraction Library - SQLite plugin
+libpdal-plugins - Point Data Abstraction Library - plugins
+libpdal-util4 - Point Data Abstraction Library - libpdal_util
+pdal - Point Data Abstraction Library
+pdal-doc - Point Data Abstraction Library - documentation
+pdlzip - data compressor based on the LZMA algorithm (simple version)
+pdlzip-dbg - data compressor based on the LZMA algorithm (simple version; debug)
+pdns-backend-bind - BIND backend for PowerDNS
+pdns-backend-geoip - geoip backend for PowerDNS
+pdns-backend-ldap - LDAP backend for PowerDNS
+pdns-backend-lua - Lua backend for PowerDNS
+pdns-backend-mydns - MyDNS compatibility backend for PowerDNS
+pdns-backend-mysql - generic MySQL backend for PowerDNS
+pdns-backend-odbc - generic UnixODBC backend for PowerDNS
+pdns-backend-opendbx - OpenDBX backend for PowerDNS
+pdns-backend-pgsql - generic PostgreSQL backend for PowerDNS
+pdns-backend-pipe - pipe/coprocess backend for PowerDNS
+pdns-backend-remote - remote backend for PowerDNS
+pdns-backend-sqlite3 - sqlite 3 backend for PowerDNS
+pdns-backend-tinydns - tinydns compatibility backend for PowerDNS
+pdns-server - extremely powerful and versatile nameserver
+pdns-tools - Tools for DNS debugging by PowerDNS
+pdsh - Efficient rsh-like utility, for using hosts in parallel
+python-pebl - Python Environment for Bayesian Learning
+libtext-english-perl - Perl module implementing the Porter Stemming algorithm
+php-horde-compress-fast - Fast Compression Library
+php-horde-lz4 - Horde LZ4 Compression Extension
+pike7.8-bzip2 - Bzip2 module for Pike
+pike8.0-bzip2 - Bzip2 module for Pike
+piler - genomic repeat analysis
+libalgorithms1 - GDAL add-on tools to perform useful raster processing - libalgorithms
+plast - Parallel Local Sequence Alignment Search Tool
+plast-example - Parallel Local Sequence Alignment Search Tool (example data)
+plastimatch - medical image reconstruction and registration
+plink1.9 - whole-genome association analysis toolset
+plm - Programming exerciser in Java, Python, Scala and others
+plzip - parallel, lossless data compressor based on the LZMA algorithm
+plzip-dbg - parallel, lossless data compressor based on the LZMA algorithm (debug)
+pngnq - tool for optimizing PNG (Portable Network Graphics) images
+polymake - Tool for algorithmic discrete geometry
+postfix-gld - greylisting daemon for postfix, written in C, uses MySQL
+postgresql-9.6-debversion - Debian version number type for PostgreSQL
+postgresql-hll - HyperLogLog extension for PostgreSQL
+prank - Probabilistic Alignment Kit for DNA, codon and amino-acid sequences
+princeprocessor - standalone password candidate generator using the PRINCE algorithm
+prodigal - Microbial (bacterial and archaeal) gene finding program
+progressivemauve - multiple genome alignment algorithms
+octave-psychtoolbox-3 - toolbox for vision research -- Octave bindings
+psychtoolbox-3-common - toolbox for vision research -- arch/interpreter independent part
+psychtoolbox-3-dbg - toolbox for vision research -- debug symbols for binaries
+psychtoolbox-3-lib - toolbox for vision research -- arch-specific parts
+pwman3 - console password management application
+python-pycryptopp - Python wrappers for the Crypto++ library
+python-pycryptopp-dbg - Python wrappers for the Crypto++ library (debug extension)
+python-pyevolve - complete genetic algorithm framework
+python-pyevolve-doc - documentation for the Pyevolve genetic algorithm framework
+python-pyfribidi - FriBidi Python bindings
+python-pyfribidi-dbg - FriBidi Python bindings (debug symbols)
+python-jwt - Python implementation of JSON Web Token
+python3-jwt - Python 3 implementation of JSON Web Token
+python-mia - Python-2 bindings for the MIA image processing library
+python3-mia - Python-3 bindings for the MIA image processing library
+python-mvpa2 - multivariate pattern analysis with Python v. 2
+pyscanfcs - scientific tool for perpendicular line scanning FCS
+python-soundfile - Python audio module based on libsndfile and NumPy
+python3-soundfile - Python 3 audio module based on libsndfile
+python-stemmer - Python bindings for libstemmer - snowball stemming algorithms
+python-stemmer-dbg - Python bindings for libstemmer (debug extension)
+python-stemmer-doc - Python bindings for libstemmer (documentation)
+python3-stemmer - Python 3 bindings for libstemmer - snowball stemming algorithms
+python3-stemmer-dbg - Python 3 bindings for libstemmer (debug extension)
+python-acora - fast multi-keyword text search engine (Python 2)
+python3-acora - fast multi-keyword text search engine (Python 3)
+python-bcrypt - password hashing library for Python
+python3-bcrypt - password hashing library for Python 3
+python-cachecontrol - caching algorithms in httplib2 for use with requests
+python3-cachecontrol - caching algorithms in httplib2 for use with requests
+python-cachetools - extensible memoizing collections and decorators for Python
+python3-cachetools - extensible memoizing collections and decorators for Python 3
+python-casmoothing - Context-aware mesh smoothing for biomedical applications
+python-cluster - allows grouping a list of arbitrary objects into related groups (clusters)
+python-cpl - Control pipeline recipes from the European Southern Observatory
+python3-cpl - Control pipeline recipes from the ESO (Python3)
+python-crypto - cryptographic algorithms and protocols for Python
+python-crypto-dbg - cryptographic algorithms and protocols for Python (debug extension)
+python-crypto-doc - cryptographic algorithms and protocols for Python (documentation)
+python3-crypto - cryptographic algorithms and protocols for Python 3
+python3-crypto-dbg - cryptographic algorithms and protocols for Python 3 (debug extension)
+python-cryptography - Python library exposing cryptographic recipes and primitives (Python 2)
+python-cryptography-doc - Python library exposing cryptographic recipes and primitives (documentation)
+python3-cryptography - Python library exposing cryptographic recipes and primitives (Python 3)
+python-dateutil - powerful extensions to the standard datetime module
+python3-dateutil - powerful extensions to the standard datetime module
+python-diff-match-patch - robust algorithms for synchronizing plain text (Python 2 module)
+python3-diff-match-patch - robust algorithms for synchronizing plain text (Python 3 module)
+python-dtcwt - Dual-Tree Complex Wavelet Transform library for Python 2
+python-dtcwt-doc - Documentation of the Python implementation of the DT-CWT
+python3-dtcwt - Dual-Tree Complex Wavelet Transform library for Python 3
+python-ecdsa - ECDSA cryptographic signature library (Python 2)
+python3-ecdsa - ECDSA cryptographic signature library (Python 3)
+python-pygraph - library for working with graphs in Python
+python3-pygraph - library for working with graphs in Python (Python3)
+python-igraph - High performance graph data structures and algorithms (Python 2)
+python3-igraph - High performance graph data structures and algorithms (Python 3)
+python-jellyfish - Library for approximate and phonetic matching of strings (Python 2)
+python-jellyfish-doc - Library for approximate and phonetic matching of strings (documentation)
+python3-jellyfish - Library for approximate and phonetic matching of strings (Python 3)
+python-keyczar - toolkit for safe and simple cryptography for Python
+python-lz4 - Python interface to the lz4 compression library
+python3-lz4 - Python interface to the lz4 compression library (Python 3)
+python-mapnik - Python 2 interface to the mapnik library
+python3-mapnik - Python 3 interface to the mapnik library
+python-mhash - Python bindings for libmhash
+python-mhash-dbg - debugging symbols for Python bindings for libmhash
+python-multipletau - multiple-tau algorithm for Python/NumPy
+python3-multipletau - multiple-tau algorithm for Python3/NumPy
+python-passlib - comprehensive password hashing framework
+python3-passlib - comprehensive password hashing framework
+python-pdal - Point Data Abstraction Library - Python 2 extension
+python-pyeclib - interface for implementing erasure codes - Python 2.x
+python3-pyeclib - interface for implementing erasure codes - Python 3.x
+python-pygraphviz - Python interface to the Graphviz graph layout and visualization package
+python-pygraphviz-dbg - Python interface to the Graphviz graph layout and visualization package (debug extension)
+python-pygraphviz-doc - Python interface to the Graphviz graph layout and visualization package (doc)
+python3-pygraphviz - Python interface to the Graphviz graph layout and visualization package (Python 3)
+python3-pygraphviz-dbg - Python interface to the Graphviz graph layout and visualization package (py3k debug extension)
+python-pynlpl - PyNLPl is a library for Natural Language Processing (Python 2 version)
+python3-pynlpl - PyNLPl is a library for Natural Language Processing (Python 3 version)
+python-pyo - Python module written in C to help digital signal processing script creation
+python3-pyo - Python3 module written in C to help digital signal processing script creation
+python-scipy - scientific tools for Python
+python-scipy-dbg - scientific tools for Python - debugging symbols
+python-scipy-doc - scientific library for Python - documentation
+python3-scipy - scientific tools for Python 3
+python3-scipy-dbg - scientific tools for Python 3 - debugging symbols
+python-skbio-doc - Data structures, algorithms, educational resources for bioinformatics (docs)
+python3-skbio - Python3 data structures, algorithms, educational resources for bioinformatic
+python-snowballstemmer - Pure Python Snowball stemming library
+python3-snowballstemmer - Pure Python 3 Snowball stemming library
+python-spake2 - SPAKE2 password-authenticated key exchange (pure python)
+python3-spake2 - SPAKE2 password-authenticated key exchange (pure python)
+python-stdnum - Python module to handle standardized numbers and codes
+python-stdnum-doc - Python module to handle standardized numbers and codes (Documentation)
+python3-stdnum - Python module to handle standardized numbers and codes (Python3 version)
+python-pyuca - Unicode Collation Algorithm (UCA) for Python
+python3-pyuca - Unicode Collation Algorithm (UCA) for Python3
+python-yaml - YAML parser and emitter for Python
+python-yaml-dbg - YAML parser and emitter for Python (debug build)
+python3-yaml - YAML parser and emitter for Python3
+python3-yaml-dbg - YAML parser and emitter for Python3 (debug build)
+qrisk2 - cardiovascular disease risk calculator
+libqsopt-ex-dev - Exact linear programming solver -- development files
+libqsopt-ex2 - Exact linear programming solver -- shared library
+qsopt-ex - Exact linear programming solver
+r-bioc-biostrings - GNU R string objects representing biological sequences
+r-bioc-dnacopy - R package: DNA copy number data analysis
+r-bioc-rbgl - R interface to the graph algorithms contained in the BOOST library
+r-cran-amelia - GNU R package supporting multiple imputation of missing data
+r-cran-amore - GNU R: A MORE flexible neural network package
+r-cran-deoptimr - GNU R package for Diffential Evolution in pure R
+r-cran-digest - GNU R package for 'hash digest' of R data structures
+r-cran-eco - GNU R routines for Bayesian ecological inference
+python-fastcluster - Fast hierarchical clustering routines for Python
+python3-fastcluster - Fast hierarchical clustering routines for Python 3
+r-cran-gbm - GNU R package providing Generalized Boosted Regression Models
+r-cran-glmnet - Lasso and Elastic-Net Regularized Generalized Linear Models
+r-cran-goftest - GNU R Classical Goodness-of-Fit Tests for Univariate Distributions
+r-cran-learnbayes - GNU R functions for learning bayesian inference
+r-cran-logspline - GNU R package providing routines for the logspline density estimation
+r-cran-maldiquant - GNU R package for quantitative analysis of mass spectrometry data
+r-cran-mcmc - GNU R package for Markov Chain Monte Carlo simulations
+r-cran-mi - GNU R package for Missing Data Imputation and Model Checking -- mi
+r-cran-minpack.lm - GNU R Levenberg-Marquardt nonlinear least-squares algorithm found in MINPACK
+r-cran-mnp - GNU R package for fitting multinomial probit (MNP) models
+r-cran-nloptr - GNU R package for interface to NLopt
+r-cran-nmf - GNU R framework to perform non-negative matrix factorization
+r-cran-nnls - GNU R package for non-negative least squares (the Lawson-Hanson algorithm)
+r-cran-qtl - GNU R package for genetic marker linkage analysis
+r-cran-randomfieldsutils - utilities for the simulation and analysis of random fields
+r-cran-randomforest - GNU R package implementing the random forest classificator
+r-cran-raschsampler - GNU R package for sampling binary matrices with fixed margins
+r-cran-rcppeigen - GNU R package for Eigen templated linear algebra
+r-cran-slam - GNU R sparse lighweight arrays and matrices package
+r-cran-statmod - GNU R package providing algorithms and functions for statistical modeling
+r-cran-surveillance - GNU R package for the Modeling and Monitoring of Epidemic Phenomena
+rapmap - rapid sensitive and accurate DNA read mapping via quasi-mapping
+rarcrack - Password cracker for rar archives
+raster3d - tools for generating images of proteins or other molecules
+raster3d-doc - documents and example files for Raster3D
+libratpoints-2.1.3 - library for finding rational points on hyperelliptic curves
+libratpoints-dev - development files for libratpoints
+ratpoints - find rational points on hyperelliptic curves
+librdkit-dev - Collection of cheminformatics and machine-learning software (development files)
+librdkit1 - Collection of cheminformatics and machine-learning software (shared libraries)
+python-rdkit - Collection of cheminformatics and machine-learning software
+libregina3 - Regina REXX interpreter, run-time library
+libregina3-dev - Regina REXX interpreter, development files
+regina-rexx - Regina REXX interpreter
+libregfi-dev - utility to analysis for Windows NT-based registry (develop. files)
+libregfi1 - utility to analysis for Windows NT-based registry (shared library)
+reglookup - utility to analysis for Windows NT-based registry
+reglookup-doc - developer documentation for libregfi and python-pyregfi
+repeatmasker-recon - finds repeat families from biological sequences
+reposurgeon - Tool for editing version-control repository history
+librheolef-dev - efficient Finite Element environment - development files
+librheolef1 - efficient Finite Element environment - shared library
+rheolef - efficient Finite Element environment
+rheolef-doc - efficient Finite Element environment - documentation
+r-cran-matrix - GNU R package of classes for dense and sparse matrices
+rna-star - ultrafast universal RNA-seq aligner
+librocksdb-dev - persistent Key-Value Store for Flash and RAM Storage (development)
+librocksdb4.5 - persistent Key-Value Store for Flash and RAM Storage
+librocksdb4.5-dbg - persistent Key-Value Store for Flash and RAM Storage (debug-symbols)
+rocs - graph theory IDE
+cl-nodelet - Robot OS nodelet library - service files - LISP
+libnodelet-dev - Robot OS nodelet library - service header files
+libnodelet-topic-tools-dev - Robot OS nodelet_topic_tools library - development files
+libnodeletlib-dev - Robot OS nodelet library - development
+libnodeletlib-tools - Robot OS nodelet library
+libnodeletlib0d - Robot OS nodelet library
+python-nodelet - Robot OS nodelet library - service files - Python
+python-nodelet-topic-tools - Robot OS nodelet_topic_tools library - service files
+libroslz4-1d - library implementing lz4 for Robot OS
+libroslz4-dev - development files for libroslz4
+python-roslz4 - Python library implementing lz4 for Robot OS
+python-rospy - Python client library for Robot OS
+rsem - RNA-Seq by Expectation-Maximization
+rtax - Classification of sequence reads of 16S ribosomal RNA gene
+rubiks - Small collection of Rubik's cube solvers
+ruby-bcrypt - Ruby binding for the bcrypt() password hashing algorithm
+ruby-diff-lcs - McIlroy-Hunt longest common subsequence algorithm implementation
+ruby-diffy - convenient way to diff strings in Ruby
+ruby-fast-stemmer - Fast Porter stemmer based on a C version of algorithm for Ruby
+ruby-hmac - Ruby interface for HMAC algorithm
+ruby-http-connection - HTTP helper library for Ruby
+ruby-jwt - JSON Web Token implementation in Ruby
+ruby-minimization - Ruby library providing minimization algorithms
+ruby-minitest - Ruby test tools supporting TDD, BDD, mocking, and benchmarking
+ruby-molinillo - generic dependency resolution algorithm
+libjs-punycode - punycode converter library in javascript
+ruby-rc4 - Ruby library implementing the RC4 algorithm
+ruby-sprite-factory - automatic css sprite generator
+ruby-text - Collection of text algorithms for Ruby
+safecat - Safely copy stdin to a file
+safecopy - data recovery tool for problematic or damaged media
+safelease - Legacy locking utility for Vdsm
+saint - Significance Analysis of INTeractome
+salmon - wicked-fast transcript quantification from RNA-seq data
+saods9 - Image display tool for astronomy
+saods9-doc - Image display tool for astronomy (help files/documentation)
+scilab-ann - Scilab module for artificial neural networks
+scm - A Scheme language interpreter
+libptscotch-5.1 - MPI programs and libraries for graph, mesh and hypergraph partitioning
+libptscotch-dbg - MPI programs and libraries for graph, mesh and hypergraph partitioning
+libptscotch-dev - MPI programs and libraries for graph, mesh and hypergraph partitioning
+libscotch-5.1 - programs and libraries for graph, mesh and hypergraph partitioning
+libscotch-dbg - programs and libraries for graph, mesh and hypergraph partitioning
+libscotch-dev - programs and libraries for graph, mesh and hypergraph partitioning
+ptscotch - MPI programs and libraries for graph, mesh and hypergraph partitioning
+ptscotch-dbg - MPI programs and libraries for graph, mesh and hypergraph partitioning
+scotch - programs and libraries for graph, mesh and hypergraph partitioning
+scotch-dbg - programs and libraries for graph, mesh and hypergraph partitioning
+libsdpa-dev - Callable library and examples of SDPA
+sdpa - High-performance package for SemiDefinite Programs
+sdpam - Matlab/Octave interface of SDPA
+seaview - Multiplatform interface for sequence alignment and phylogeny
+seccure - tools for using algorithms based on elliptic curve cryptography (ECC)
+seer - genomic sequence element (kmer) enrichment analysis
+python3-sepolgen - Python3 module used in SELinux policy generation
+seqan-dev - C++ library for the analysis of biological sequences (development)
+libseqan2-dev - C++ library for the analysis of biological sequences (development)
+seqan-apps - C++ library for the analysis of biological sequences
+seqtk - Fast and lightweight tool for processing sequences in the FASTA or FASTQ format
+sfront - MPEG 4 Structured Audio decoder
+python-sgp4 - Track earth satellite TLE orbits using up-to-date 2010 version of sgp4
+python3-sgp4 - Track earth satellite TLE orbits using up-to-date 2010 version of sgp4
+libshark-dev - development files for Shark
+libshark0 - Shark machine learning library
+shark-doc - documentation for Shark
+sickle - windowed adaptive trimming tool for FASTQ files using quality
+sigma-align - Simple greedy multiple alignment of non-coding DNA sequences
+sim4 - tool for aligning cDNA and genomic DNA
+simstring-dev - fast and simple algorithm for approximate string matching/retrieval
+sisc - A Java integrated, fully R5RS compliant Scheme system
+libsiscone-dev - Seedless Infrared Safe Cone jet finder - development files
+libsiscone-spherical-dev - Spherical version of SISCone - development files
+libsiscone-spherical0v5 - Spherical version of SISCone
+libsiscone0v5 - Seedless Infrared Safe Cone jet finder
+siscone-doc-html - Developer's reference manual of SISCone (HTML)
+siscone-doc-pdf - Developer's reference manual of SISCone (PDF)
+siscone-examples - Seedless Infrared Safe Cone jet finder - example files
+python-skimage - Python modules for image processing
+python-skimage-lib - Optimized low-level algorithms for scikit-image
+python3-skimage - Python 3 modules for image processing
+python3-skimage-lib - Optimized low-level algorithms for Python 3 scikit-image
+sks - Synchronizing OpenPGP Key Server
+libslicot-dev - numerical algorithms from systems and control theory (static library)
+libslicot-doc - numerical algorithms from systems and control theory (documentation)
+libslicot-pic - numerical algorithms from systems and control theory (static PIC library)
+libslicot0 - numerical algorithms from systems and control theory (shared library)
+smalt - Sequence Mapping and Alignment Tool
+smalt-examples - Sequence Mapping and Alignment Tool (examples)
+python-smartpm - Python library of the Smart Package Manager
+smartpm - An alternative package manager that works with dpkg/rpm
+smartpm-core - An alternative package manager that works with dpkg/rpm
+ml-lpt - SML/NJ language processing tools
+libstemmer-dev - Snowball stemming algorithms, development kit
+libstemmer-tools - Simple word stemming utility using Snowball
+libstemmer0d - Snowball stemming algorithms for use in Information Retrieval
+libstemmer0d-dbg - Snowball stemming algorithms, debugging symbols
+socnetv - Social Network Analysis and Visualisation application
+libsofa1 - Simulation Open Framework Architecture - runtime
+libsofa1-dev - Simulation Open Framework Architecture - development
+sofa-apps - GUI for the Simulation Open Framework Architecture (SOFA)
+sofa-data - Simulation Open Framework Architecture - data
+sofa-tutorials - Simulation Open Framework Architecture - tutorials
+libsombok-dev - Unicode Text Segmentation library (development files)
+libsombok3 - Unicode Text Segmentation library
+libsombok3-dbg - Unicode Text Segmentation library (debugger symbols)
+libsopt-dev - Development package for Sparse OPTimisation library
+libsopt2.0 - Sparse OPTimisation shared library
+sortmerna - tool for filtering, mapping and OTU-picking NGS reads
+soundscaperenderer - tool for real-time spatial audio reproduction
+soundscaperenderer-common - tool for real-time spatial audio reproduction (common-files)
+soundscaperenderer-nox - tool for real-time spatial audio reproduction (without X support)
+spaced - alignment-free sequence comparison using spaced words
+spambayes - Python-based spam filter using statistical analysis
+spamoracle - A statistical analysis spam filter based on Bayes' formula
+spline - Akima spline interpolation
+libsqlcipher-dev - SQLCipher development files
+libsqlcipher0 - SQLCipher shared library
+libsqlcipher0-dbg - SQLCipher debugging symbols
+sqlcipher - Command line interface for SQLCipher
+staden - DNA sequence assembly (Gap4/Gap5), editing and analysis tools
+staden-common - Architecture independent files for Staden
+stegsnow - steganography using ASCII files
+libstk-4.5.0 - Sound Synthesis Toolkit
+libstk0-dev - Sound Synthesis Toolkit (development files)
+stk - Sound Synthesis Toolkit (example applications)
+stk-doc - Sound Synthesis Toolkit (documentation)
+libcharon-extra-plugins - strongSwan charon library (extra plugins)
+libstrongswan - strongSwan utility and crypto library
+libstrongswan-extra-plugins - strongSwan utility and crypto library (extra plugins)
+subdownloader - subtitle download/upload manager for video files
+libamd2 - approximate minimum degree ordering library for sparse matrices
+libbtf1 - permutation to block triangular form library for sparse matrices
+libcamd2 - symmetric approximate minimum degree library for sparse matrices
+libccolamd2 - constrained column approximate library for sparse matrices
+libcolamd2 - column approximate minimum degree ordering library for sparse matrices
+libcxsparse3 - concise sparse matrix library
+libldl2 - simple LDL' factorization library for sparse matrices
+sumaclust - fast and exact clustering of genomic sequences
+libsunflow-java - rendering system for photo-realistic image synthesis
+libsunflow-java-doc - rendering system for photo-realistic image synthesis (javadoc)
+sunflow - rendering system for photo-realistic image synthesis (GUI)
+libscsynth1 - SuperCollider synthesis server library
+supercollider - real time audio synthesis programming language
+supercollider-common - common files for SuperCollider
+supercollider-dev - development files for SuperCollider
+supercollider-emacs - SuperCollider mode for Emacs
+supercollider-gedit - SuperCollider mode for Gedit
+supercollider-ide - integrated development environment for supercollider audio system
+supercollider-language - real time audio synthesis programming language
+supercollider-server - real time audio synthesis server
+supercollider-supernova - real time audio synthesis server (multiprocessor version)
+supercollider-vim - SuperCollider mode for Vim
+surf-alggeo - visualization of real algebraic geometry
+surf-alggeo-doc - visualization of real algebraic geometry -- manual
+surf-alggeo-nox - visualization of real algebraic geometry -- no X support
+swarm - robust and fast clustering method for amplicon-based studies
+libswtchart-java - Chart drawing SWT component
+libsylfilter0 - generic spam filter library
+sylfilter - generic spam filter tool
+python-symeig - Symmetrical eigenvalue routines for NumPy
+python-symeig-dbg - Symmetrical eigenvalue routines for NumPy (debug symbols)
+libt-digest-java - Data structure for quantiles and related rank statistics
+tablix2 - Kernel for solving general timetabling problems
+tagcoll - Commandline tool to perform operations on tagged collections
+libtaktuk-1-dev - C bindings for taktuk (development files)
+libtaktuk-perl - Perl bindings for taktuk
+libtaktuk3 - C bindings for taktuk
+taktuk - efficient, large scale, parallel remote execution of commands
+tcllib - Standard Tcl Library
+texlive-pictures - TeX Live: Graphics, pictures, diagrams
+texlive-latex-extra - TeX Live: LaTeX additional packages
+texlive-science - TeX Live: Mathematics and science packages
+theseus - superimpose macromolecules using maximum likelihood
+theseus-examples - superimpose macromolecules using maximum likelihood (examples)
+timbl - Tilburg Memory Based Learner
+tinyca - simple graphical program for certification authority management
+tinyscheme - Very small scheme implementation
+libtlsh-dev - fuzzy hashing library - development files
+libtlsh0 - fuzzy hashing library
+python-tlsh - fuzzy hashing library - Python module
+python3-tlsh - fuzzy hashing library - Python3 module
+tlsh-tools - compare similar files using fuzzy hashing
+tm-align - structural alignment of proteins
+toga2 - computer chess engine, calculates chess moves
+python-toposort - topological sort algorithm - Python 2 module
+python3-toposort - topological sort algorithm - Python 3 module
+toppred - transmembrane topology prediction
+libtorch3-dev - State of the art machine learning library - development files
+libtorch3c2 - State of the art machine learning library - runtime library
+trafficserver - fast, scalable and extensible HTTP/1.1 compliant caching proxy server
+transtermhp - find rho-independent transcription terminators in bacterial genomes
+tree-ppuzzle - Parallelized reconstruction of phylogenetic trees by maximum likelihood
+tree-puzzle - Reconstruction of phylogenetic trees by maximum likelihood
+tree-puzzle-doc - Reconstruction of phylogenetic trees by maximum likelihood (doc)
+libtrilinos-anasazi-dev - large-scale eigenvalue algorithms - development files
+libtrilinos-anasazi12 - large-scale eigenvalue algorithms - runtime files
+libtrilinos-globipack-dev - 1D globalization capabilities - development files
+libtrilinos-globipack12 - 1D globalization capabilities - runtime files
+libtrilinos-muelu-dev - next generation multilevel preconditioner capabilities - development files
+libtrilinos-muelu12 - next generation multilevel preconditioner capabilities - runtime files
+libtrilinos-optipack-dev - Trilinos optimization algorithms - development files
+libtrilinos-optipack12 - Trilinos optimization algorithms - runtime files
+libtrilinos-rythmos-dev - Trilinos transient integrator - development files
+libtrilinos-rythmos12 - Trilinos transient integrator - runtime files
+libtrilinos-xpetra-dev - conversion between Epetra and Teuchos objects - development files
+libtrilinos-xpetra12 - conversion between Epetra and Teuchos objects - runtime files
+trilinos-all-dev - object-oriented framework for large-scale problems - development files (ALL)
+trilinos-dev - object-oriented framework for large-scale problems - development files
+trilinos-doc - object-oriented framework for large-scale problems - documentation
+tthsum - generates or checks TTH message digests
+tvtime - analog television display application
+libtwofish-dev - Niels Ferguson's Twofish cryptographic algorithm library
+libtwofish0 - Niels Ferguson's Twofish cryptographic library -- runtime package
+uc-echo - error correction algorithm designed for short-reads from NGS
+libucl-dev - Portable compression library - development
+libucl1 - Portable compression library - runtime
+libudt-dev - UDP-based Data Transfer Protocol - development files
+libudt0 - UDP-based Data Transfer Protocol
+libuncommons-watchmaker-framework-java - Framework for Evolutionary Computation
+libuncommons-watchmaker-swing-java - Framework for Evolutionary Computation - Swing library
+uncommons-watchmaker-doc - Framework for Evolutionary Computation - Documentations
+unmo3 - Uncompress and extract samples from MO3 modules
+unsort - reorders lines in a file in semirandom ways
+vamp-examples - example Vamp plugins, host and RDF generator
+vim-command-t - open files with a minimum number of keystrokes
+visp-images-data - visual servoing library - dataset reference files
+viva - alternative visualization techniques for analysis of paje trace files
+libvlfeat-dev - Computer vision library focussing on visual features and clustering
+libvlfeat-doc - Computer vision library focussing on visual features and clustering
+libvlfeat1 - Computer vision library focussing on visual features and clustering
+libvlfeat1-dbg - Computer vision library focussing on visual features and clustering
+octave-vlfeat - Computer vision library focussing on visual features and clustering
+vorbisgain - add Replay Gain volume tags to Ogg Vorbis files
+weka - Machine learning algorithms for data mining tasks
+weka-doc - documentation for the Weka machine learning suite
+whichman - Fault tolerant search utilities: whichman, ftff, ftwhich
+wise - comparison of biopolymers, like DNA and protein sequences
+wrapsrv - DNS SRV record command line wrapper
+libwsclean0 - Fast generic widefield interferometric imager (shared library)
+wsclean - Fast generic widefield interferometric imager
+wsclean-dev - Fast generic widefield interferometric imager (development files)
+libxdelta2 - Xdelta runtime library
+libxdelta2-dev - Xdelta development files
+xdelta - A diff utility which works with binary files
+xdemorse - decode Morse signals to text
+libghc-xmonad-dev - Lightweight X11 window manager
+libghc-xmonad-doc - Lightweight X11 window manager; documentation
+libghc-xmonad-prof - Lightweight X11 window manager; profiling libraries
+xmonad - Lightweight X11 window manager written in Haskell
+libghc-xmonad-contrib-dev - Extensions to xmonad
+libghc-xmonad-contrib-doc - Extensions to xmonad; documentation
+libghc-xmonad-contrib-prof - Extensions to xmonad; profiling libraries
+xppaut - Phase Plane Plus Auto: Solves many kinds of equations
+xtide - provides tide and current predictions
+liblzma-dev - XZ-format compression library - development files
+liblzma5 - XZ-format compression library
+xz-utils - XZ-format compression utilities
+xzdec - XZ-format compression utilities - tiny decompressors
+yacas - Computer Algebra System
+yacas-doc - Documentation for Yacas
+libyade - Platform for discrete element modeling. Libraries
+python-yade - Platform for discrete element modeling. Python bindings
+yade - Platform for discrete element modeling
+yade-doc - Platform for discrete element modeling. Documentation
+yapet - Yet Another Password Encryption Tool
+yorick-mira - optical interferometry image reconstruction within Yorick
+yorick-optimpack - optimization of large scale problems for the Yorick language
+yosys - Framework for Verilog RTL synthesis
+yosys-dev - Framework for Verilog RTL synthesis (development files)
+yosys-doc - Documentation for Yosys
+zalign - parallel local alignment of biological sequences
+zita-at1 - JACK autotuner
+zoo - manipulate zoo archives
+libzopfli-dev - Header and static library files for libzopfli1
+libzopfli1 - HTTP and WebDAV client library
+zopfli - zlib (gzip, deflate) compatible compressor
+zp - ZPAQ open standard maximum compressor (prebuilt levels)
+zpaq - maximum reference compressor for ZPAQ open standard
+zsync - client-side implementation of the rsync algorithm
+libzzip-0-13 - library providing read access on ZIP-archives - library
+libzzip-dev - library providing read access on ZIP-archives - development
+zziplib-bin - library providing read access on ZIP-archives - binaries
+ifeffit - Interactive XAFS analysis program
+cclib-data - Parsers and algorithms for computational chemistry (data files)
+crafty - state-of-the-art chess engine, compatible with xboard
+libsofa-c-dev - Algorithms for models in fundamental astronomy (development files)
+libsofa-c0 - Algorithms for models in fundamental astronomy (shared library)
+libmetis-edf-dev - Family of Multilevel Partitioning Algorithms
+libmetis-edf4.1 - Family of Multilevel Partitioning Algorithms
+metis-edf - Family of Multilevel Partitioning Algorithms
+mgltools-utpackages - UT Austin software Python extensions
+libcufft8.0 - NVIDIA cuFFT Library
+libcufftw8.0 - NVIDIA cuFFTW Library
+libcurand8.0 - NVIDIA cuRAND Library
+libnvgraph8.0 - NVIDIA Graph Analytics library (nvGRAPH)
+sgb - The Stanford GraphBase: combinatorial data and algorithms
+snaphu - Statistical-Cost, Network-Flow Algorithm for 2D Phase Unwrapping
+libttspico-data - Small Footprint TTS (lingware)
+libttspico-dev - Small Footprint TTS (development files)
+libttspico-utils - Small Footprint TTS (binaries)
+libttspico0 - Small Footprint TTS (library)
+ugene - integrated bioinformatics toolkit
+algobox - algorithmics introduction - French UI
+cminpack-doc - Nonlinear equations and nonlinear least squares problems (doc)
+libcminpack-dev - Nonlinear equations and nonlinear least squares problems - development
+libcminpack1 - Nonlinear equations and nonlinear least squares problems - runtime
+context-modules - additional ConTeXt modules
+libcsoundac-dev - development files for CsoundAC
+libcsoundac6.0v5 - Csound Algorithmic Composition library
+python-csoundac - Python bindings for CsoundAC
+eso-pipelines - ESO VLT Instrument pipeline collection
+flam3 - render and animate FLAM3s and manipulate their genomes
+gramophone2 - GRAMophone II is an algorithmic music generator
+libbit-vector-perl - Perl module for bit vectors and more
+libkinosearch1-perl - Perl library providing search engine features
+liblucy-perl - search engine library
+libpano13-3 - panorama tools library
+libpano13-dev - panorama tools library development files
+libliggghts-dev - Open Source DEM Particle Simulation Software. Development files
+libliggghts3 - Open Source DEM Particle Simulation Software. Shared library
+liggghts - Open Source DEM Particle Simulation Software.
+liggghts-doc - Open Source DEM Particle Simulation Software. Dcoumentation and examples
+mauve-aligner - multiple genome alignment
+mbt - memory-based tagger-generator and tagger
+libminpack1 - nonlinear equations and nonlinear least squares shared library
+minpack-dev - nonlinear equations and nonlinear least squares static library
+pd-rtclib - Real Time Composition Library for Pure Data (Pd)
+libpdal-base4 - Point Data Abstraction Library - libpdal_base
+libpdal-dev - Point Data Abstraction Library - development files
+libpdal-plang4 - Point Data Abstraction Library - libpdal_plang
+libpdal-plugin-greyhound - Point Data Abstraction Library - Greyhound plugin
+libpdal-plugin-icebridge - Point Data Abstraction Library - Icebridge plugin
+libpdal-plugin-pgpointcloud - Point Data Abstraction Library - PostgreSQL PointCloud plugin
+libpdal-plugin-python - Point Data Abstraction Library - Python plugin
+libpdal-plugin-sqlite - Point Data Abstraction Library - SQLite plugin
+libpdal-plugins - Point Data Abstraction Library - plugins
+libpdal-util4 - Point Data Abstraction Library - libpdal_util
+pdal - Point Data Abstraction Library
+pdal-doc - Point Data Abstraction Library - documentation
+polymake - Tool for algorithmic discrete geometry
+progressivemauve - multiple genome alignment algorithms
+python-pdal - Point Data Abstraction Library - Python 2 extension
+scm - A Scheme language interpreter
+sfront - MPEG 4 Structured Audio decoder
+sisc - A Java integrated, fully R5RS compliant Scheme system
+libslicot-dev - numerical algorithms from systems and control theory (static library)
+libslicot-doc - numerical algorithms from systems and control theory (documentation)
+libslicot-pic - numerical algorithms from systems and control theory (static PIC library)
+libslicot0 - numerical algorithms from systems and control theory (shared library)
+libscsynth1 - SuperCollider synthesis server library
+supercollider - real time audio synthesis programming language
+supercollider-common - common files for SuperCollider
+supercollider-dev - development files for SuperCollider
+supercollider-emacs - SuperCollider mode for Emacs
+supercollider-gedit - SuperCollider mode for Gedit
+supercollider-ide - integrated development environment for supercollider audio system
+supercollider-language - real time audio synthesis programming language
+supercollider-server - real time audio synthesis server
+supercollider-supernova - real time audio synthesis server (multiprocessor version)
+supercollider-vim - SuperCollider mode for Vim
+texlive-science - TeX Live: Mathematics and science packages
+tinyscheme - Very small scheme implementation
+sgb - The Stanford GraphBase: combinatorial data and algorithms
+texlive-latex-extra - TeX Live: LaTeX additional packages
+texlive-latex-recommended - TeX Live: LaTeX recommended packages
+texlive-lang-german - TeX Live: German
+apparix - console-based bookmark tool for fast file system navigation
+atril - MATE document viewer
+awffull - web server log analysis program
+bluefish - advanced Gtk+ text editor for web and software development
+bluefish-data - advanced Gtk+ text editor (data)
+bluefish-plugins - advanced Gtk+ text editor (plugins)
+browser-history - User daemon that tracks URLs looked at and logs them
+buku - Powerful command-line bookmark manager
+cairo-dock-shortcuts-plug-in - Shortcuts plug-in for Cairo-dock
+cdargs - bookmarks and browsing for the cd command
+codelite - Powerful and lightweight IDE
+codelite-plugins - Powerful and lightweight IDE - plugins
+comix - GTK Comic Book Viewer
+cream - VIM macros that make the VIM easier to use for beginners
+djvusmooth - graphical editor for DjVu
+dolibarr - Web based software to manage a company or foundation
+drpython - simple and customizable editor for the Python language
+emacs-goodies-el - Miscellaneous add-ons for Emacs
+browser-plugin-evince - plugin for web browsers to display documents (PostScript, PDF, …)
+evince - Document (PostScript, PDF) viewer
+evince-common - Document (PostScript, PDF) viewer - common files
+gir1.2-evince-3.0 - GObject introspection data for the evince libraries
+filezilla - Full-featured graphical FTP/FTPS/SFTP client
+fntsample - program for making font samples
+geany-plugin-numberedbookmarks - numbered bookmarks plugin for Geany
+gedit-plugins - set of plugins for gedit
+gftp-common - shared files for other gFTP packages
+gftp-gtk - X/GTK+ FTP client
+gftp-text - colored FTP client using GLib
+gigolo - frontend to manage connections to remote filesystems using GIO/GVfs
+gigolo-dbg - frontend to manage connections to remote filesystems using GIO/GVfs (debug)
+gnome-do - Quickly perform actions on your desktop
+grilo-plugins-0.3 - Framework for discovering and browsing media - Plugins
+irclog2html - Converts IRC log files to HTML with pretty colours
+libjs-jquery-galleriffic - jQuery Galleriffic plugin
+libjs-jquery-history - jQuery history plugin
+jwchat - full featured, web-based Jabber chat client
+libkf5bookmarks-data - Qt library with support for bookmarks and the XBEL format.
+libkf5bookmarks-dev - Qt library with support for bookmarks and the XBEL format.
+libkf5bookmarks5 - Qt library with support for bookmarks and the XBEL format.
+kchmviewer - CHM viewer for KDE
+konq-plugins - plugins for Konqueror, the KDE file/web/document browser
+kephra - gui text editor along Perl alike Paradigms
+kindleclip - User interface for managing Amazon Kindle's "My Clippings" file
+lftp - Sophisticated command-line FTP/HTTP/BitTorrent client programs
+midori - fast, lightweight graphical web browser
+notebook-gtk2 - GTK+ logbook editor
+pcmanfm - extremely fast and lightweight file manager
+pdf2djvu - PDF to DjVu converter
+pdftk - tool for manipulating PDF documents
+pdftk-dbg - tool for manipulating PDF documents (debugging symbols)
+php-horde-trean - Web-based bookmarks application
+qupzilla - lightweight web browser based on libqtwebkit
+xul-ext-sage - lightweight RSS and Atom feed reader
+xul-ext-scrapbook - Firefox extension to save and manage Web pages
+seetxt - lightweight text file and man page viewer
+smb4k - Samba (SMB) share advanced browser
+php-tcpdf - PHP class for generating PDF files on-the-fly
+tea - graphical text editor with syntax highlighting
+texlive-lang-arabic - TeX Live: Arabic
+texlive-lang-japanese - TeX Live: Japanese
+treeline - versatile tree-like structured custom data manager
+txtreader - text viewer, mainly used for reading novels
+uzbl - Lightweight Webkit browser following the UNIX philosophy
+vifm - flexible vi-like file manager using ncurses
+vinagre - remote desktop client for the GNOME Desktop
+xdg-user-dirs-gtk - tool to manage well known user directories (Gtk extension)
+xfce4-goodies - enhancements for the Xfce4 Desktop Environment
+xfce4-places-plugin - quick access to folders, documents and removable media
+xfce4-smartbookmark-plugin - search the web via the Xfce4 panel
+xiphos - environment for Bible reading, study, and research
+xombrero - minimalist web browser
+zathura - document viewer with a minimalistic interface
+zathura-cb - comic book archive support for zathura
+zathura-djvu - DjVu support for zathura
+zathura-pdf-poppler - PDF support for zathura
+zathura-ps - PostScript support for zathura
+texlive-luatex
+texlive-latex-extra
+texlive-lang-greek
+ahcpd
+babeld
+python-babelfish
+python3-babelfish
+babeltrace
+libbabeltrace-ctf-dev
+libbabeltrace-ctf1
+libbabeltrace-dev
+libbabeltrace1
+python3-babeltrace
+ch5m3d
+python-chemfp
+python-cinfony
+cl-babel
+cl-trivial-utf-8
+python-flask-babel
+python-flask-babel-doc
+python3-flask-babel
+fonts-babelstone-han
+fonts-babelstone-modern
+fonts-linex
+garmin-forerunner-tools
+gdis
+gmtkbabel
+gpsbabel
+gpsbabel-doc
+gpsbabel-gui
+konq-plugins
+lokalize
+mtkbabel
+python-nibabel
+python-nibabel-doc
+python3-nibabel
+node-babel-runtime
+libchemistry-openbabel-perl
+libopenbabel-dev
+libopenbabel-doc
+libopenbabel4v5
+openbabel
+openbabel-dbg
+openbabel-gui
+python-openbabel
+probabel
+probabel-examples
+python-babel
+python-babel-doc
+python-babel-localedata
+python3-babel
+python-django-babel
+python-django-babel-doc
+python3-django-babel
+python-translationstring
+python3-translationstring
+ruby-babel-source
+ruby-babel-transpiler
+ruby-sprockets-es6
+swath
+texlive-latex-base
+texlive-latex-recommended
+texlive-lang-arabic
+texlive-lang-cyrillic
+texlive-lang-czechslovak
+texlive-lang-european
+texlive-lang-french
+texlive-lang-german
+texlive-lang-greek
+texlive-lang-italian
+texlive-lang-japanese
+texlive-lang-other
+texlive-lang-polish
+texlive-lang-portuguese
+texlive-lang-spanish
+v-sim-plugins
+viewmol
+xdrawchem
+r-cran-zelig
+ztex-bmp
+mgltools-pybabel
+rubber
+texlive-latex-extra
+texlive-pstricks

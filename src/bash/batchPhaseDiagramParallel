@@ -1,0 +1,54 @@
+#!/usr/bin/env bash 
+
+usage="BatchSkript executableName outputFilename flagMake flagRun netTpye pValue \n 	make flags: -s speed -d debug \n 	run flags:  -o output -h nohup"
+
+#check arguments
+if [ "$#" -ne 6 ];
+then
+	echo -e $usage
+	exit 1;
+fi
+
+#save arguments
+exeName=$1
+logName=$2
+makeFlag=$3
+runFlag=$4		
+netType=$5
+pValue=$6	
+#target directory for data
+target=$(pwd)
+
+# make shure that you are in the right directory
+cd ~/Thesis/Code
+
+# make the executable
+if [ $makeFlag == "-s" ];
+then
+	make -B speed;
+elif [ $makeFlag == "-d" ];
+then
+	make debug;
+else
+	echo "Unknown argument" $3
+	exit 1;
+fi	
+
+if [ $? -eq 0 ];
+then
+	# clear make output
+	clear
+
+	# move it to data directory
+	mv Echse $target/$exeName
+
+	# change directory to there
+	cd $target
+
+
+	# 1 -> q
+	# 2-> size 
+					
+	nice -n 18 parallel  -j 8 "stdbuf -oL nohup ./$exeName ${pValue} {1} {2} ${netType} </dev/null >${logName}_{2}_${pValue}_{1}_.log 2>&1 " ::: 0.5 0.55 0.65 0.7 0.75 0.8 0.82 0.85 0.87 0.9 0.92 0.95 0.97 0.99 ::: 125 250 500 1000 2000 4000 8000 16000
+
+fi
